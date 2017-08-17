@@ -6,4 +6,4 @@ theme = "hyde"
 
 [Params]
   dateFormat = "January 2, 2006"
-  description = "Making Runescape botting & gold-farming easier"
+  description = "Making Runescape botting & gold-farming easier."

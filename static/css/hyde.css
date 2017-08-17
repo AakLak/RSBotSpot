@@ -34,7 +34,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #0085a1 !important;
 }
 
 /* --- Post preview --- */
