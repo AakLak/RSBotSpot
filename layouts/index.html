@@ -34,7 +34,7 @@
 
       {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
       <ul class="pager main-pager">
-        {{ if .Pagin ator.HasPrev }}
+        {{ if .Paginator.HasPrev }}
         <li class="previous">
           <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
         </li>
