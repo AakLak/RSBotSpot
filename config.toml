@@ -1,3 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+DefaultContentLanguage = "en"
+title = "RS Bot Spot"
+theme = "hyde"
+
+[Params]
+  dateFormat = "January 2, 2006"
+  description = "Making Runescape botting & gold-farming easier"
