@@ -30,9 +30,9 @@ When picking a proxy for Runesacpe botting, you should make sure you're getting 
 *   **Free vs Shared vs Private:** If you see any free proxies, stay away! The uptime & security of these proxies is not suitable for botting. Shared proxies are okay, but you risk getting a proxy used by another botter. Private proxies are best, since you get exclusive access to the connection.
 
 ## **How many proxies do I need?**
-The answer to this question is entirely up to you! The *ideal* split would be 1 proxy per 1 bot account, but this can get costly. Most gold-farmers run 2-3 account per proxy for a good cost/risk ratio.
+The answer to this question is entirely up to you! The *ideal* split would be 1 proxy per 1 account, but this can get costly. Most gold-farmers run 2-3 account per proxy for a good cost/risk ratio.
 
-**Example:** If I had a gold-farm of 10 accounts, I'd split them over three proxies. Two proxies would have 3 accounts on each, and the third proxy would have 4 accounts on it.
+**Example:** If I had a gold-farm of 10 accounts, I could split them over three proxies. Two proxies would have 3 accounts on each, and the third proxy would have 4 accounts on it.
 
 ## **IMPORTANT: Proper Proxy Usage**
 It's **very important** that you use a proxy from account creation to account death. This means your account must be registered on the proxy & use the **same** proxy **every** time it logs in. Do anything else, and you're not utilizing your proxy properly.
