@@ -4,7 +4,7 @@ date: 2017-08-16T20:57:48-07:00
 draft: false
 tags: ["Proxies", "Antiban"]
 ---
-Proxies are considered a must have by most gold-farmers. They allow you to mask your IP address, and split your bots over multiple networks. Proxy usage is believed to reduce the risk of chainbans, and losing your entire gold-farm at once.  This guide will cover everything you need to know about proxies for Runescape botting.
+Proxies are considered a must have by most gold-farmers. They allow you to mask your IP address, and split your bots over multiple networks. Using proxies is believed to reduce the risk of chainbans, and losing your entire gold-farm at once.  This guide will cover everything you need to know about proxies for Runescape botting.
 <!--more-->
 
 
@@ -12,6 +12,7 @@ Proxies are considered a must have by most gold-farmers. They allow you to mask 
 Whenever you visit a website, you expose something called your IP address. An IP address is a unique number used to identify your internet connection. You can think of this like caller ID for telephones: whenever you “call” a website, they see the IP address you called from.
 
 Common reasons to utilize proxies when botting:
+
 * **Reduce Suspicion:** Botting multiple accounts on the same IP, may look suspicious to Jagex.
 * **Reduce Risk:** If one of your accounts happens to get banned, the others may also be at risk, since they are botting on the same IP.
 * **Keep your IP clean:** It's good to keep your home IP clean for your main, mule, or legit accounts.
@@ -31,13 +32,12 @@ When picking a proxy for Runesacpe botting, you should make sure you're getting 
 ## **How many proxies do I need?**
 The answer to this question is entirely up to you! The *ideal* split would be 1 proxy per 1 bot account, but this can get costly. Most gold-farmers run 2-3 account per proxy for a good cost/risk ratio.
 
-**Example:** If I had a gold-farm of 10 accounts, I'd split them over three proxies.<br>
-Two proxies would have 3 accounts on each, and the third proxy would have 4 accounts on it.
+**Example:** If I had a gold-farm of 10 accounts, I'd split them over three proxies. Two proxies would have 3 accounts on each, and the third proxy would have 4 accounts on it.
 
 ## **IMPORTANT: Proper Proxy Usage**
 It's **very important** that you use a proxy from account creation to account death. This means your account must be registered on the proxy & use the **same** proxy **every** time it logs in. Do anything else, and you're not utilizing your proxy properly.
 
-Check out our guide on Creating a Runescape Account through a Proxy to lear how to do this properly.
+Check out our guide on Creating a Runescape Account through a Proxy (coming soon) to lear how to do this properly.
 
 ## **Where do I get proxies?**
 Some of our favorite Runescape proxy providers are listed below. Virmach, Proxy Fish, and Your Private Proxy are all excellent sources for SOCKS proxies. They have great connectivity, offer good support, and allow you to swap your proxies once per month. If you're ready to get proxies and expand your farm, look no further!

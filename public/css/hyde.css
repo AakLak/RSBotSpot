@@ -34,9 +34,9 @@ a {
 }
 a:hover,
 a:focus {
-  /*color: #0085a1;*/
+  color: #0085a1;
 }
-
+li{font-size: 20px;}
 /* --- Post preview --- */
 
 .post-preview {
@@ -68,6 +68,11 @@ a:focus {
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
+}
+
+.post-title:hover,
+.post-title:focus{
+  text-decoration: underline;
 }
 .post-preview .post-subtitle {
   margin: 0;
