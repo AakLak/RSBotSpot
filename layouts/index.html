@@ -7,13 +7,14 @@
   <div class="content container">
     <div class="posts">
       <div class="posts-list">
-        {{ $pag := .Paginate (where .Data.Pages "Type" "post") }} {{ printf "%#v" .Params.subtitle}} {{ range $pag.Pages }}
+        {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
+        {{ range $pag.Pages }}
         <article class="post-preview">
           <a href="{{ .Permalink }}">
-            <h2 class="post-title">{{ .Title }}</h2> {{ if .Params.subtitle }}
-            <h3 class="post-subtitle">
-                {{ .Params.subtitle }}
-                </h3> {{ end }}
+            <h2 class="post-title">{{ .Title }}</h2>
+            {{ if .Params.subtitle }}
+              <h3 class="post-subtitle">{{ .Params.subtitle }}</h3>
+            {{ end }}
           </a>
 
           {{ partial "post_meta.html" . }}
@@ -23,11 +24,12 @@
           </div>
 
           {{ if .Params.tags }}
-          <span class="post-meta">
-              {{ range .Params.tags }}
-                #<a href="{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
-              {{ end }}
-              </span> {{ end }}
+            <span class="post-meta">
+            {{ range .Params.tags }}
+              #<a href="{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+            {{ end }}
+            </span>
+        {{ end }}
         </article>
         {{ end }}
       </div>
