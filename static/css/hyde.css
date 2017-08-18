@@ -29,6 +29,10 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+
+p {
+  font-size: 20px;
+}
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   color: #268bd2;
@@ -39,6 +43,20 @@ a:hover,
 a:focus {
   color: #0085a1 !important;
   text-decoration: underline;
+}
+
+/* --- Sidebar Footer ---*/
+.block{
+  text-align: center;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+  color: #fec065 !important;
+}
+
+.sidebar-sticky{
+  font-size: 1.2em;
 }
 
 /* --- Post preview --- */
@@ -216,7 +234,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
@@ -226,6 +243,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+  text-align: justify;
 }
 
 @media (min-width: 48em) {
