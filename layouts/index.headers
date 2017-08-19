@@ -6,6 +6,9 @@
 */
   Link: <{{ "js/brands.js" | relURL }}>; rel=preload; as=script
   Link: <{{ "js/solid.js" | relURL }}>; rel=preload; as=script
-  Link: <{{ "js/fontawesome.js" | relURL }}>; rel=preload; as=script
-  Link: <{{ "js/analyrics.js" | relURL }}>; rel=preload; as=script
-  Link: <{{ "dist/main.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "js/fontawesome.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "js/analytics.js" | relURL }}>; rel=preload; as=script
+
+  Link: <{{ "css/print.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "css/poole.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "css/hyde.css" | relURL }}>; rel=preload; as=style
