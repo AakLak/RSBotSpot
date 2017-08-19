@@ -5,4 +5,4 @@
   Referrer-Policy: origin-when-cross-origin
 */
   Link: <{{ "dist/app.bundle.js" | relURL }}>; rel=preload; as=script
-  Link: <{{ "dist/main.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "/hyde.css" | relURL }}>; rel=preload; as=style
