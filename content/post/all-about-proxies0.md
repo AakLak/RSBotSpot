@@ -1,5 +1,5 @@
 ---
-title: "All About Proxies"
+title: "All About Proxies for Runescape Botting"
 date: 2017-08-16T20:57:48-07:00
 draft: false
 tags: ["Proxies", "Antiban"]
@@ -23,7 +23,7 @@ Using a proxy when botting Runescape helps avoid these common issues.
 You can think of a proxy server as a remote computer with it’s own internet connection. When you use a proxy, you route your internet activity through the proxy's connection, rather than your own. This way, Runescape will see your proxy IP address, and not your home IP address.
 
 ## **What should I look for in a proxy?**
-When picking a proxy for Runesacpe botting, you should make sure you're getting a private SOCKS proxy. If that sounds confusing, don't worry, we'll break it down.
+When picking a proxy for Runescape botting, you should make sure you're getting a private SOCKS proxy. If that sounds confusing, don't worry, we'll break it down.
 
 *   **HTTP vs SOCKS:** These are the two different protocols proxies use. All you need to know is that Runescape bots use SOCKS proxies, so that's the type you should pick. HTTP proxies will not work with Runescape bots.
 
@@ -37,7 +37,7 @@ The answer to this question is entirely up to you! The *ideal* split would be 1 
 ## **IMPORTANT: Proper Proxy Usage**
 It's **very important** that you use a proxy from account creation to account death. This means your account must be registered on the proxy & use the **same** proxy **every** time it logs in. Do anything else, and you're not utilizing your proxy properly.
 
-Check out our guide on Creating a Runescape Account through a Proxy (coming soon) to lear how to do this properly.
+Check out our guide on Creating a Runescape Account through a Proxy (coming soon) to lear how to do this properly. We recommend using 
 
 ## **Where do I get proxies?**
 Some of our favorite Runescape proxy providers are listed below. Virmach, Proxy Fish, and Your Private Proxy are all excellent sources for SOCKS proxies. They have great connectivity, offer good support, and allow you to swap your proxies once per month. If you're ready to get proxies and expand your farm, look no further!
