@@ -8,13 +8,15 @@ aliases: ["/all-about-proxies/"]
 Proxies are considered a must have by most gold-farmers. They allow you to **mask your IP address, and split your bots over multiple networks**. Using proxies is believed to reduce the risk of chainbans, and losing your entire gold-farm at once.  This guide will cover everything you need to know about proxies for Runescape botting.
 <!--more-->
 
+**Our Favorite Runescape Private SOCKS Proxy Providers:**
+<br> We've tested and recommend Runescape botting SOCKS proxies from: <a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener">Virmach</a>, <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener">Proxy Fish</a>, and <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener">Your Private Proxy</a>. They all offer great service, support, and have worked well in our botting tests.
 
 ## **Why do I need a proxy when botting?**
 Whenever you visit a website, you expose something called your IP address. An IP address is a unique number used to identify your internet connection. You can think of this like caller ID for telephones: whenever you “call” a website, they see the IP address you called from.
 
 Common reasons to utilize proxies when botting:
 
-* **Reduce Suspicion:** Botting multiple accounts on the same IP, may look suspicious to Jagex.
+* **Reduce Suspicion:** Botting multiple accounts on the same IP, it may look suspicious to Jagex.
 * **Reduce Risk:** If one of your accounts happens to get banned, the others may also be at risk, since they are botting on the same IP.
 * **Keep your IP clean:** It's good to keep your home IP clean for your main, mule, or legit accounts.
 
@@ -42,6 +44,14 @@ Check out our guide on Creating a Runescape Account through a Proxy (coming soon
 
 ## **Where do I get proxies?**
 Some of our favorite private Runescape SOCKS proxy providers are listed below. They have great connectivity, offer good support, and have been tested successfully for botting by us! If you're ready to get proxies and protect your bot-farm from chainbans, look no further!
-* **Virmach**:
-* **Proxy Fish**
-* **Your Private Proxy**
+
+* **<a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener">Virmach:</a>** In business for over 3 years. Trusted by hundreds of botters. Typically respond to support tickets within 24 hours. <br>
+<a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener">Order Virmach private Runescape SOCKS proxies here.</a>
+
+* **<a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener">Proxy Fish:</a>:** In business for over a year. Trusted by many botters.
+<br>
+<a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener">Order ProxyFish private Runescape SOCKS proxies here.</a>
+
+* **<a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener">Your Private Proxy:</a>:** In business for over 8 years. Typically respond to tickets within support 24 hours.
+<br>
+<a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener">Order Your Private Proxy Runescape SOCKS proxies here.</a>
