@@ -50,6 +50,9 @@ li{font-size: 20px;}
   }
 }
 
+.small-text {
+  font-size: 12px;
+}
 .post-preview:last-child {
   border-bottom: 0;
 }

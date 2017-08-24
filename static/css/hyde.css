@@ -14,6 +14,10 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 
+.small-text {
+  font-size: 12px;
+}
+
 .post-title:hover,
 .post-title:focus{
   text-decoration: underline;
@@ -40,6 +44,20 @@ a:focus {
   text-decoration: underline;
 }
 
+.caption {
+    max-width: 96%;
+    margin-bottom: 10px;
+    padding: 8px;
+    padding-top: 4px;
+    border: 1px solid #ddd;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+
+.caption-text{
+  margin-bottom: 0;
+  font-size: 14px;
+}
 /* --- Sidebar Footer ---*/
 .block{
   text-align: center;
