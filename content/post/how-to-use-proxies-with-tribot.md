@@ -21,19 +21,19 @@ They all offer great connectivity, support, and have worked well in our botting 
 ## 1. Load TRiBot
 Open TRiBot and click the Proxy button.
 <div class="caption">
-![TRiBot Proxy Button - RSBotSpot](http://rsbotspot.com/wp-content/uploads/2016/10/howtoproxy1-min.png)
+![TRiBot Proxy Button - RSBotSpot](/img/TRiBot-Runescape-Proxy-Button.png)
 <p class="caption-text">Proxy button on TRiBot loader</p>
 </div>
 ## 2. Enter Your Proxy Info
 Click the Insert button to create a new row for a proxy. To enter your info: double click a cell, input the information, **and press enter**. Once you're finished, click OK .
 <div class="caption">
-![TRiBot Proxy Screen - RSBotSpot](http://rsbotspot.com/wp-content/uploads/2016/10/LQTJPN5-1.png)
+![TRiBot Proxy Screen - RSBotSpot](/img/TRiBot-Proxy-Settings.png)
 <p class="caption-text">Proxy settings button on TRiBot loader</p>
 </div>
 ## 3. Select your proxy
 Now just select your proxy & log in!
 <div class="caption">
-![TRiBot Proxy Select - RSBotSpot](http://rsbotspot.com/wp-content/uploads/2016/10/howtoproxy2-min.png)
+![TRiBot Proxy Select - RSBotSpot](/img/TRiBot-Runescape-Select-Proxy.png)
 <p class="caption-text">Select your proxy before loading</p>
 </div>
 ## That’s it!
@@ -48,11 +48,11 @@ Some of our favorite Runescape botting proxy providers are listed below. We've t
 
 *   If it's your first time using a particular proxy, you may get a firewall prompt when running a script. If you do, just select "Always Allow" and hit OK. TRiBot has built in security, so **it's safe to "Always Allow" all connection**.
 <div class="caption">
-    ![TRiBot Firewall - RSBotSpot](http://rsbotspot.com/wp-content/uploads/2016/10/D2PtqlA-2.png)
+    ![TRiBot Firewall - RSBotSpot](/img/TRiBot-Runescape-Proxy-Firewall.png)
     <p class="caption-text">TRiBot Firewall Prompt - Safe to Always Allow</p>
 </div>
 *   To confirm you're on a proxy, you can select View > Runtime Information in the TRiBot menu:
 <div class="caption">
-![TRiBot Runtime Information- RSBotSpot](http://rsbotspot.com/wp-content/uploads/2016/10/cwn7Trf-1.png)
+![TRiBot Runtime Information- RSBotSpot](/img/TRiBot-Proxy-Runtime-Information.png)
 <p class="caption-text">TRiBot Runtime Information</p>
 </div>
