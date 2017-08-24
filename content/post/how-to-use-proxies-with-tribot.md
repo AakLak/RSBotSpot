@@ -12,7 +12,7 @@ Before getting started, we *highly* recommend checking out our [All About Proxie
 ## **Our Favorite Runescape Botting Proxy Providers** ##
 We've tested and had great results with Runescape botting proxies from:
 
-* <a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener"_>Virmach</a>
+* <a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener">Virmach</a>
 * <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener"_>Proxy Fish</a>
 * <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener"_>Your Private Proxy</a>
 
