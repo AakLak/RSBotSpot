@@ -3,6 +3,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "RS Bot Spot"
 theme = "hyde"
+canonifyURLs = true
 
 [Params]
   dateFormat = "January 2, 2006"
