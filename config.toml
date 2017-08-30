@@ -1,4 +1,4 @@
-baseURL = "https://www.rsbotspot.com/"
+baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "RS Bot Spot"
