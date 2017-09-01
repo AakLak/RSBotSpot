@@ -1,9 +1,9 @@
-baseURL = "/"
+baseURL = "https://rsbotspot.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "RS Bot Spot"
 theme = "hyde"
-# canonifyURLs = true
+canonifyURLs = true
 
 [Params]
   dateFormat = "January 2, 2006"
