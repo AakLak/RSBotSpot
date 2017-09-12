@@ -1,3 +1,7 @@
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+.ad{
+  border: 2px dashed white;
+}
