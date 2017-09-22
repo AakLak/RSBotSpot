@@ -9,13 +9,7 @@ This guide will cover how to run your bots through proxies on TRiBot. Running yo
 
 Before getting started, we *highly* recommend checking out our [All About Proxies for Runescape Botting]({{< relref "all-about-proxies-for-runescape-botting.md" >}}) guide. It covers everything you need to know about proxies, how they help you avoid chain bans, and trusted sources to buy your proxies from.
 
-## **Our Favorite Runescape Botting Proxy Providers** ##
-We've tested and had great results with Runescape botting proxies from:
-
-* <a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener">Virmach</a>
-* <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener"_>Proxy Fish</a>
-* <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener"_>Your Private Proxy</a>
-* <a href="http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4" onclick="trackOutboundLink('http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4'); return false;" target="_blank" rel="noopener"_>Blazing Proxy</a>
+{{< proxylist >}}
 
 They all offer great connectivity, support, and have worked well in our botting tests.
 

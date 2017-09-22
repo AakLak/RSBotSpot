@@ -11,20 +11,15 @@ keywords:
 - how to create runescape account through a proxy
 ---
 
-Most experienced botters know about [the benefits of proxies for Runescape botting](/post/all-about-proxies-for-runescape-botting/), and how they **help avoid chain bans**. However, an often overlooked step by new botters is making sure to create their account through the proxy.
+Most experienced botters know about [the benefits of proxies for Runescape botting](/post/all-about-proxies-for-runescape-botting/), and how they **help avoid chain bans**. However, an often overlooked step by new botters is making sure to create their accounts through proxies.
 
 This guide will cover how to properly create & register your Runescape account though a proxy.
 <!--more-->
 
 ## **Why This is Important**
+If you only use proxies through your bot client, but not for account registration on the website, **all of your accounts could still be linked to your home IP address**. An important rule to remember is to **use proxies from account registration to ban**.
 
-## **Our Favorite Runescape Botting Proxy Providers** ##
-We've tested and had great results with Runescape botting proxies from:
-
-* <a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener"_>Virmach</a>
-* <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener"_>Proxy Fish</a>
-* <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener"_>Your Private Proxy</a>
-* <a href="http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4" onclick="trackOutboundLink('http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4'); return false;" target="_blank" rel="noopener"_>Blazing Proxy</a>
+{{< proxylist >}}
 
 ## **How to Create Runescape Accounts through a Proxy on Windows**
 
@@ -53,3 +48,6 @@ Here, you can enter your proxy settings, and you're good to go!
 ## **How to Confirm You're on a Proxy**
 Simply [Google: What's my ip](https://www.google.com/search?q=whats+my+ip) to check your IP address. Google should display your proxy IP address, and not your home IP address.<br>
 *To check your home IP, you can [Google: What's my ip](https://www.google.com/search?q=whats+my+ip) on a regular browser without a proxy applied.*
+
+## **What's next**
+Congratulations, you did it! Now you can safely register your accounts through a proxy before botting. Make sure to check out our other guides: <a href="/post/all-about-proxies-for-runescape-botting/" target="_blank" rel="noopener"_>All About Proxies for Runescape Botting</a> and <a href="/post/how-to-use-proxies-with-tribot/" target="_blank" rel="noopener"_>How to use Proxies with TRiBot</a> for more information!
