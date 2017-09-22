@@ -11,9 +11,7 @@ keywords:
 - how to create runescape account through a proxy
 ---
 
-Most experienced botters know about [the benefits of proxies for Runescape botting](/post/all-about-proxies-for-runescape-botting/), and how they **help avoid chain bans**. However, an often overlooked step by new botters is making sure to create their accounts through proxies.
-
-This guide will cover how to properly create & register your Runescape account though a proxy.
+This guide will cover how to properly create & register your Runescape account though a proxy. Most experienced botters know about [the benefits of proxies for Runescape botting](/post/all-about-proxies-for-runescape-botting/), and how they **help avoid chain bans**. However, an often overlooked step by new botters is making sure to create their accounts through proxies.
 <!--more-->
 
 ## **Why This is Important**
