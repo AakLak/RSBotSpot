@@ -44,8 +44,8 @@ Here, you can enter your proxy settings, and you're good to go!
 </div>
 
 ## **How to Confirm You're on a Proxy**
-Simply [Google: What's my ip](https://www.google.com/search?q=whats+my+ip) to check your IP address. Google should display your proxy IP address, and not your home IP address.<br>
-*To check your home IP, you can [Google: What's my ip](https://www.google.com/search?q=whats+my+ip) on a regular browser without a proxy applied.*
+Simply <a href="https://www.google.com/search?q=whats+my+ip" target="_blank" rel="noopener"_>Google: What's my ip</a> to check your IP address. Google should display your proxy IP address, and not your home IP address.<br>
+*To check your home IP, you can <a href="https://www.google.com/search?q=whats+my+ip" target="_blank" rel="noopener"_>Google: What's my ip</a> on a regular browser without a proxy applied.*
 
 ## **What's next**
 Congratulations, you did it! Now you can safely register your accounts through a proxy before botting. Make sure to check out our other guides: <a href="/post/all-about-proxies-for-runescape-botting/" target="_blank" rel="noopener"_>All About Proxies for Runescape Botting</a> and <a href="/post/how-to-use-proxies-with-tribot/" target="_blank" rel="noopener"_>How to use Proxies with TRiBot</a> for more information!
