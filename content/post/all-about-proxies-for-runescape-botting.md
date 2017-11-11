@@ -8,13 +8,7 @@ aliases: ["/all-about-proxies/"]
 Proxies are considered a must have by most gold-farmers. They allow you to **mask your IP address, and split your bots over multiple networks**. Using proxies is believed to reduce the risk of chainbans, and losing your entire gold-farm at once.  This guide will cover everything you need to know about botting Runescape safely with proxies.
 <!--more-->
 
-## **Our Favorite Runescape Botting Proxy Providers** ##
-We've tested and had great results with Runescape botting proxies from:
-
-* <a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener"_>Virmach</a>
-* <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener"_>Proxy Fish</a>
-* <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener"_>Your Private Proxy</a>
-* <a href="http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4" onclick="trackOutboundLink('http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4'); return false;" target="_blank" rel="noopener"_>Blazing Proxy</a>
+{{< proxylist >}}
 
 They all offer great connectivity, support, and have worked well in our botting tests.
 
@@ -52,7 +46,7 @@ Check out our guide on Registering a Runescape Account through a Proxy (coming s
 ## **Where do I get Runescape botting proxies?**
 Some of our favorite private Runescape proxy providers are listed below. They have great connectivity, support, and have been tested successfully for botting by us! If you're ready to get proxies and protect your bot-farm from chainbans, look no further!
 
-* <a href="https://virmach.com/manage/cart.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener"_>Virmach</a>
+* <a href="https://billing.virmach.com/aff.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener"_>Virmach</a>
 * <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener"_>Proxy Fish</a>
 * <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener"_>Your Private Proxy</a>
 * <a href="http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4" onclick="trackOutboundLink('http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4'); return false;" target="_blank" rel="noopener"_>Blazing Proxy</a>
