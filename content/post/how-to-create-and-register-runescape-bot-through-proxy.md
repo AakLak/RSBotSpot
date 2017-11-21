@@ -42,6 +42,29 @@ Here, you can enter your proxy settings, and you're good to go!
 ![Maxthon Add Proxy - RSBotSpot](/img/Maxthon Add Proxy - RSBotSpot.png)
 <p class="caption-text">Maxthon Add Proxy</p>
 </div>
+## **How to Create Runescape Accounts through a Proxy on MacOS**
+*Note: This method applies the proxy to your entire system.*
+### **1. Open System Preferences**
+Press Command(⌘) + Spacebar, type 'System Preferences', press enter.
+<div class="caption">
+![Maxthon Add Proxy - RSBotSpot](/img/Mac System Preferences.png)
+<p class="caption-text">Opening System Preferences</p>
+</div>
+
+### **2. Open Network Proxy Settings**
+Type 'Proxy', press enter.
+<div class="caption">
+![Maxthon Add Proxy - RSBotSpot](/img/Mac System Preferences Network.png)
+<p class="caption-text">Mac System Preferences</p>
+</div>
+
+### **3. Enter Proxy Information**
+Select 'SOCKS Proxy' and enter your proxy settings.
+Click OK, then Apply.
+<div class="caption">
+![Maxthon Add Proxy - RSBotSpot](/img/Mac Proxy Settings.png)
+<p class="caption-text">Mac Proxy Settings</p>
+</div>
 
 ## **How to Confirm You're on a Proxy**
 Simply <a href="https://www.google.com/search?q=whats+my+ip" target="_blank" rel="noopener"_>Google: What's my ip</a> to check your IP address. Google should display your proxy IP address, and not your home IP address.<br>
