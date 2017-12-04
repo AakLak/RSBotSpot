@@ -1,5 +1,5 @@
 ---
-title: "How to Use TRiBot Looking Glass & Bot though the Official Runescape Client"
+title: "How to Use TRiBot Looking Glass & Bot Through the Official Runescape Client"
 date: "2017-12-03"
 draft: false
 tags: ["Antiban", "Looking Glass", "Mirror  Mode"]
@@ -17,6 +17,7 @@ TRiBot's [Looking Glass feature](https://tribot.org/forums/topic/48785-what-is-l
 <!--more-->
 While there's no evidence that TRiBot is detectable, this feature was released as a form of antiban for users worried about the potential detectability of botting clients. Botters seem to be torn 50/50 about the effectiveness of Looking Glass on bans, but it never hurts to have some extra protection. This guide will cover how to use TRiBot Looking Glass to bot through the official Runescape client!
 
+## **TRiBot Looking Glass Guide** ##
 ### **1. Install Java Development Kit (JDK)** ###
 Download and install JDK [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 I will be using 32 bit JDK 8u151.
