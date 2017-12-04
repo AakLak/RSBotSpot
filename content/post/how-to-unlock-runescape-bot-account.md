@@ -1,5 +1,5 @@
 ---
-title: "How to Unlock your Runescape Bot Account"
+title: "How to Unlock Your Runescape Bot Account"
 date: "2017-12-01"
 draft: false
 tags: ["Proxy", "VPS", "Antiban"]
