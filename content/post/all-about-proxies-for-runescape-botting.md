@@ -50,4 +50,3 @@ Some of our favorite private Runescape proxy providers are listed below. They ha
 * <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener"_>Proxy Fish</a>
 * <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener"_>Your Private Proxy</a>
 * <a href="http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4" onclick="trackOutboundLink('http://www.blazingseollc.com/amember/aff/go/whatsproxy?i=4'); return false;" target="_blank" rel="noopener"_>Blazing Proxy</a>
-* <a href="https://www.highproxies.com/billing/aff.php?aff=288" onclick="trackOutboundLink('https://www.highproxies.com/billing/aff.php?aff=288'); return false;" target="_blank" rel="noopener" _>High Proxies</a>
