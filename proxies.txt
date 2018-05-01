@@ -1,4 +1,4 @@
-<table class="table proxy_table"><thead><tr><th>IP:Port</th></tr></thead><tr><td>97.74.230.16:16889</td></tr>
+<table class="table"><thead><tr><th>IP:Port</th></tr></thead><tr><td>97.74.230.16:16889</td></tr>
 <tr><td>97.74.230.16:27756</td></tr>
 <tr><td>192.155.80.68:37087</td></tr>
 <tr><td>97.74.230.244:27015</td></tr>

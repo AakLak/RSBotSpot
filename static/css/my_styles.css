@@ -34,3 +34,24 @@ body{
 .blog-container{
   max-width: 70rem;
 }
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #202020;
+    color: white;
+}
+
+.proxy_table{
+  margin:0 auto;
+  text-align: center;
+}

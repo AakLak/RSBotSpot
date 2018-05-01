@@ -9,7 +9,7 @@
     {{ end }}
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
     <link href="{{ .Site.BaseURL }}css/my_styles.css" rel="stylesheet">
-    
+
     <link rel="canonical" href="{{ .Permalink }}">
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
@@ -34,6 +34,7 @@
   </head>
 
   <body>
+    {{ .Site.BaseURL }}
 
     {{ block "masthead" . }}
     <div class="blog-masthead" style="background-color:#202020;">

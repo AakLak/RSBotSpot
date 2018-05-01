@@ -4,11 +4,19 @@ title = "Free SOCKS Proxies for Runescape Botting"
 sharingicons = false
 +++
 
-Alan lived and worked in Kenya for eight years, first as a volunteer teaching computer science at a rural college, and later as a Linux systems administrator at a [livestock research institute in Nairobi](https://www.ilri.org). During his time in Kenya he traveled extensively around East Africa and [blogged about his experiences](https://alaninkenya.org). He is passionate about open-source software, information security, and the freedom of information — naturally, he [blogs about that too](https://mjanja.ch).
+Check out these guides to learn more about proxies for Runescape botting and how they can help you avoid chain bans.
 
-After spending some time living in (and [blogging about](https://englishbulgaria.net)) Bulgaria, he finds himself living in Jordan. These are his stories.
+* [All About Proxies for Runescape Botting](/post/all-about-proxies-for-runescape-botting/)
+* [How to Create & Register Runescape Bot Accounts through a Proxy](/post/how-to-create-and-register-runescape-bot-through-proxy/)
+* [How To Use Proxies With TRiBot](/post/how-to-use-proxies-with-tribot/)
 
-You can [contact me]({{< relref "contact.md" >}}).
+If you're interested in premium, private SOCKS proxies for Runescape botting, check out:
+{{< proxylist >}}
 
+## Free Runescape SOCKS Proxy List
+This proxy list is generated from free, public sources and updated every 24 hours. We recommend using them only for shot-term and testing purposes.
+
+If you're interested in Runescape proxies for longterm & serious botting use, check out our recommended providers listed above!
 
 {{< readfile file="/data/proxies.txt" markdown="true" >}}
+{{ .Site.BaseURL }}
