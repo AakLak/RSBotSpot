@@ -34,8 +34,6 @@
   </head>
 
   <body>
-    {{ .Site.BaseURL }}
-
     {{ block "masthead" . }}
     <div class="blog-masthead" style="background-color:#202020;">
       <div class="container-fluid" style="width:95%;background-color:#202020;">
@@ -117,6 +115,7 @@
       {{ end }}
       </p>
       <p>
+            {{ .Site.BaseURL }}
       <a href="#">{{ i18n "backToTop" }}</a>
       </p>
     </footer>
