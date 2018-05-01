@@ -2,4 +2,4 @@
 python3 proxy_scraper.py
 git add .
 git commit -m "update proxy list"
-git push
+git push origin master
