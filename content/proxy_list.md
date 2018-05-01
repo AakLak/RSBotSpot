@@ -19,4 +19,3 @@ This proxy list is generated from free, public sources and updated every 24 hour
 If you're interested in Runescape proxies for longterm & serious botting use, check out our recommended providers listed above!
 
 {{< readfile file="/data/proxies.txt" markdown="true" >}}
-{{ .Site.BaseURL }}
