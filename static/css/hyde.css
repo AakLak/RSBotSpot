@@ -296,7 +296,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
+.proxy_table{
+  text-align: center;
+}
 
 .article-tips.tip, .Tech.tip, .Remember.tip, .Warning.tip, .Tip.tip, .article-tips.Tip, .Tech.Tip, .Remember.Tip, .Warning.Tip, .Tip.Tip {
     border-color: #00a0ff;
