@@ -24,7 +24,7 @@
           </div>
         {{ end }}
         <div class="posts-list">
-          <!-- {{ range .Paginator.Pages }} -->
+          <!-- {{ range $paginator.Pages }} -->
           {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
 {{ range $paginator.Pages }}
             <article class="post-preview my-card">
@@ -61,16 +61,16 @@
             </article>
           {{ end }}
         </div>
-        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+        {{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
           <ul class="pager main-pager">
-            {{ if .Paginator.HasPrev }}
+            {{ if $paginator.HasPrev }}
               <li class="previous">
-                <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
+                <a href="{{ .URL }}page/{{ $paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
               </li>
             {{ end }}
-            {{ if .Paginator.HasNext }}
+            {{ if $paginator.HasNext }}
               <li class="next">
-                <a href="{{ .URL }}page/{{ .Paginator.Next.PageNumber }}">{{ i18n "olderPosts" }} &rarr;</a>
+                <a href="{{ .URL }}page/{{ $paginator.Next.PageNumber }}">{{ i18n "olderPosts" }} &rarr;</a>
               </li>
             {{ end }}
           </ul>
