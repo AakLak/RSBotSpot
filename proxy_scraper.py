@@ -1,13 +1,17 @@
 """Find 10 working HTTP(S) proxies and save them to a file."""
 
+import datetime
 import asyncio
 from proxybroker import Broker
 
 
 async def save(proxies, filename):
     """Save proxies to a file."""
+    now = datetime.datetime.now()
+    date_string = now.strftime('%b %d, %Y')
     with open(filename, 'w') as f:
         f.write('<table class="table proxy_table"><thead><tr><th>IP:Port</th></tr></thead>')
+        f.write('<tr><th>Last Updated: ' + date_string + '</th></tr>')
         while True:
             proxy = await proxies.get()
             if proxy is None:
