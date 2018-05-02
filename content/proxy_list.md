@@ -15,7 +15,7 @@ Check out these guides to learn more about proxies for Runescape botting and how
 ## Free Runescape SOCKS Proxy List
 This proxy list is generated from free, public sources and updated about once a day (more frequent updates coming). The proxies are USA based, and should have decent uptime as far as public proxies go.
 
-We recommend using them only for shot-term and testing purposes.
+We recommend using them only for short-term and testing purposes.
 {{< readfile file="/proxies.txt" markdown="true" >}}
 
 {{< proxylist >}}
