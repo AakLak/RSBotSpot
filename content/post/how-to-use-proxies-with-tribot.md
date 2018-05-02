@@ -2,6 +2,7 @@
 title: "How To Use Proxies With TRiBot"
 date: "2017-08-02"
 draft: false
+sharingicons: false
 tags: ["Proxy", "Antiban"]
 aliases: ["/hot-to-use-proxies-with-tribot/"]
 ---

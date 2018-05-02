@@ -2,6 +2,7 @@
 title: "How to Use TRiBot Looking Glass & Bot Through the Official Runescape Client"
 date: "2017-12-03"
 draft: false
+sharingicons: false
 tags: ["Antiban", "Looking Glass", "Mirror  Mode"]
 keywords:
 - how to use TRiBot Looking Glass

@@ -2,6 +2,7 @@
 title: "How to Create & Register Runescape Bot Accounts through a Proxy"
 date: "2017-09-13"
 draft: false
+sharingicons: false
 tags: ["Proxy", "Antiban"]
 keywords:
 - runescape proxy

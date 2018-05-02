@@ -4,6 +4,7 @@ draft: false
 date: "2017-08-01"
 tags: ["Proxy", "Antiban"]
 aliases: ["/all-about-proxies/"]
+sharingicons: false
 ---
 Proxies are considered a must have by most gold-farmers. They allow you to **mask your IP address, and split your bots over multiple networks**. Using proxies is believed to reduce the risk of chainbans, and losing your entire gold-farm at once.  This guide will cover everything you need to know about botting Runescape safely with proxies.
 <!--more-->
