@@ -1,0 +1,16 @@
+<nav class="blog-pagination">
+  {{ if and ($paginator.HasPrev) ($paginator.HasNext) }}
+  <a class="btn btn-outline-primary" href="{{ $paginator.Prev.URL }}" rel="prev" role="button">{{ i18n "paginatorPrevious" }}</a>
+  <a class="btn btn-outline-primary" href="{{ $paginator.Next.URL }}" rel="next" role="button">{{ i18n "paginatorNext" }}</a>
+  {{ end }}
+  {{ if and ($paginator.HasPrev) (not $paginator.HasNext) }}
+  <a class="btn btn-outline-primary" href="{{ $paginator.Prev.URL }}" rel="prev" role="button">{{ i18n "paginatorPrevious" }}</a>
+  <a class="btn btn-outline-primary disabled" href="#" role="button" aria-disabled="true">{{ i18n "paginatorNext" }}</a>
+  {{ end }}
+  {{ if and (not $paginator.HasPrev) ($paginator.HasNext) }}
+  <a class="btn btn-outline-primary disabled" href="#" role="button" aria-disabled="true">{{ i18n "paginatorPrevious" }}</a>
+  <a class="btn btn-outline-primary" href="{{ $paginator.Next.URL }}" rel="next" role="button">{{ i18n "paginatorNext" }}</a>
+  {{ end }}
+</nav>
+
+{{- /* vim: set ts=2 sw=2 et: */}}
