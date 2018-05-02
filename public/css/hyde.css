@@ -1,20 +1,4 @@
 /*
- *  __                  __
- * /\ \                /\ \
- * \ \ \___   __  __   \_\ \     __
- *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
- *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
- *    \ \_\ \_\/`____ \ \___,_\ \____\
- *     \/_/\/_/`/___/> \/__,_ /\/____/
- *                /\___/
- *                \/__/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/hyde.
- */
-
-
-/*
  * Contents
  *
  * Global resets
@@ -26,17 +10,90 @@
 
 /*My Stuff*/
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
-a {
-  color: #008AFF;
+
+p > em{
+  font-size: 18px;
 }
+.small-text {
+  font-size: 12px;
+}
+
+.post-title:hover,
+.post-title:focus{
+  text-decoration: underline;
+}
+
+.white{color: #fff}
+
+.post > p {text-align: justify;}
+
+li{font-size: 20px;}
+
+p {
+  font-size: 22px;
+  font-family: 'Source Sans Pro';
+}
+
+.border {
+  border: 2px dashed white;
+}
+
+.no-bottom{
+  margin-bottom: 0;
+}
+
+.ad{
+  border: 2px dashed white;
+  height: 6em;
+}
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+  color: #268bd2;
+  text-decoration: none;
+}
+
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #0085a1 !important;
+  text-decoration: underline;
 }
-li{font-size: 20px;}
+
+.caption {
+    max-width: 96%;
+    margin-bottom: 10px;
+    padding: 8px;
+    padding-top: 4px;
+    border: 1px solid #ddd;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+
+.caption-text{
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.caption > img{
+  margin: auto;
+}
+/* --- Sidebar Footer ---*/
+.block{
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+  color: #fec065 !important;
+}
+
+.sidebar-sticky{
+  font-size: 1.2em;
+}
+
 /* --- Post preview --- */
 
 .post-preview {
@@ -50,9 +107,6 @@ li{font-size: 20px;}
   }
 }
 
-.small-text {
-  font-size: 12px;
-}
 .post-preview:last-child {
   border-bottom: 0;
 }
@@ -71,11 +125,6 @@ li{font-size: 20px;}
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
-}
-
-.post-title:hover,
-.post-title:focus{
-  text-decoration: underline;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -125,7 +174,7 @@ li{font-size: 20px;}
 }
 
 @media only screen and (min-width: 768px) {
-  .post-preview .post-title{
+  .post-preview .post-title {
     font-size: 36px;
   }
 }
@@ -136,6 +185,9 @@ li{font-size: 20px;}
  * Update the foundational and global aspects of the page.
  */
 
+html {
+  font-family: "Lors", Helvetica, Arial, sans-serif;
+}
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -208,11 +260,6 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
- a.footer-link:hover,
- a.footer-link:focus {
-   color: #fec065 !important;
- }
-
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
@@ -222,7 +269,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
@@ -230,8 +276,9 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  /*padding-top:    4rem;*/
   padding-bottom: 4rem;
+  /*text-align: justify;*/
 }
 
 @media (min-width: 48em) {
@@ -246,30 +293,5 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
-  }
-}
-
-
-/*
- * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` on the right.
- */
-
-@media (min-width: 48em) {
-  .layout-reverse .sidebar {
-    left: auto;
-    right: 0;
-  }
-  .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
-  }
-}
-
-@media (min-width: 64em) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
   }
 }
