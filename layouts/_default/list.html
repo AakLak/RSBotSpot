@@ -24,7 +24,9 @@
           </div>
         {{ end }}
         <div class="posts-list">
-          {{ range .Paginator.Pages }}
+          <!-- {{ range .Paginator.Pages }} -->
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+{{ range $paginator.Pages }}
             <article class="post-preview my-card">
               <a href="{{ .Permalink }}">
                 <h2 class="post-title">{{ .Title }}</h2>
