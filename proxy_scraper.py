@@ -25,7 +25,7 @@ async def save(proxies, filename):
 def main():
     proxies = asyncio.Queue()
     broker = Broker(proxies)
-    tasks = asyncio.gather(broker.find(types=['SOCKS4', 'SOCKS5'], limit=25, countries=['US'], timeout=2, verify_ssl=True),
+    tasks = asyncio.gather(broker.find(types=['SOCKS4', 'SOCKS5'], limit=25, countries=['US'], timeout=1),
                            save(proxies, filename='proxies.txt'))
     loop = asyncio.get_event_loop()
     loop.run_until_complete(tasks)
