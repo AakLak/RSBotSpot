@@ -1,6 +1,6 @@
 ---
 title: "Script Review: Dax Combat v2 Beta for TRiBot"
-draft: false
+draft: true
 date: "2018-05-03"
 tags: ["Script Review", "Combat"]
 aliases: ["/runescape-script-review-dax-combat/"]
@@ -18,6 +18,8 @@ Dax Combat v2 Beta is currently free until the full version is released. All you
 
 
 ## Using Dax Combat v2 Beta
+
+
 
 Common reasons to utilize proxies when botting:
 
