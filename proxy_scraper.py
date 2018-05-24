@@ -8,7 +8,7 @@ from proxybroker import Broker
 async def save(proxies, filename):
     """Save proxies to a file."""
     now = datetime.datetime.now()
-    date_string = now.strftime('%b %d, %Y')
+    date_string = now.strftime('%b %d, %-I:%M %p')
     with open(filename, 'w') as f:
         f.write('<table class="table proxy_table"><thead><tr><th>IP:Port</th></tr></thead>')
         f.write('<tr><th>Last Updated: ' + date_string + '</th></tr>')
