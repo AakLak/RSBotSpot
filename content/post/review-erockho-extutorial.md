@@ -1,5 +1,5 @@
 ---
-title: "Script Review: ErickHo's - Ex Tutorial Island"
+title: "Script Review: ErickHo's Ex Tutorial Island"
 draft: false
 date: "2018-05-23"
 tags: ["Script Review", "Tutorial Island"]
