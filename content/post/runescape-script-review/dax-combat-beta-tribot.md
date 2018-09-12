@@ -3,7 +3,7 @@ title: "Script Review: Dax Combat v2 Beta - TRiBot"
 draft: false
 date: "2018-09-10"
 tags: ["Script Review", "Combat"]
-aliases: ["/runescape-script-review-dax-combat-tribot/"]
+aliases: ["/dax-combat-beta-tribot/"]
 sharingicons: false
 ---
 Dax Combat v2 Beta is a popular Oldschool Runescape combat script for TRiBot. It has an optimized combat system, utilizes Dax's powerful webwalker, and has everything a basic fighter needs.

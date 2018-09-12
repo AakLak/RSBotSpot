@@ -3,7 +3,7 @@ title: "Script Review: ErickHo's Ex Tutorial Island - TRiBot"
 draft: false
 date: "2018-05-23"
 tags: ["Script Review", "Tutorial Island"]
-slug: "/runescape-script-review-tribot-extutorial-island/"
+slug: "/extutorial-island-tirbot/"
 sharingicons: false
 ---
 ErickHo's Ex Tutorial Island script for Oldschool Runescape has been around since 2014 and been used by thousands of users. ExTutorial works with either preregistered accounts, or has an option to create them for you. It's an excellent script to get your Runescape bot accounts through the OSRS tutorial island quickly.
