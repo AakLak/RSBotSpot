@@ -50,12 +50,12 @@ The script allows you to save and reload your settings to help save time. To do 
 ## **Thoughts & Rating**
 <div class="container">
  <div class="row justify-content-center">
-  <i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><!-- <i class="fas fa-star-half fa-3x"></i> -->
+  <i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i>
   </div>
   <div class="row justify-content-center">
-  <h3>4/5 Stars</h3>
+  <h3>4/5  Stars</h3>
   </div>
 </div>
-Dax combat is easy to setup and handles combat interactions efficiently. Our tests at various locations with mixed crowd sizes resulted in good xp/hr for the conditions. The script was also able to identify the closest bank and make to a wide variety of monster locations.
+Dax combat is easy to setup and handles combat interactions efficiently. Our tests at various locations with mixed crowd sizes resulted in good xp/hr for the conditions. The script was also able to identify the closest bank and make it back to a wide variety of monster locations.
 
 Dax combat does lack some nice to have features for a combat script: potion drinking, bone burying, style switching, etc. However, the features it does have shine, and it's very impressive for a free script.

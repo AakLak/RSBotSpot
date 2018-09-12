@@ -62,9 +62,6 @@ After you've edited the script arguments to your liking, paste them into the tex
   </div>
 </div>
 
-Ex Tutorial Island is extremely simple to use, and does it's job well! While we've had a great time using all of it's feature in the past, at the time of testing we did run into a couple minor issues:
-
-* Account creation is down
-* Script needed assistance at two points during the island
+Ex Tutorial Island is extremely simple to use, and does its job well! While we've had a great time using the account creation feature in the past, at the time of testing it was broken.
 
 The small amount of settings makes for quick and easy usage, but we'd also love to see more customization options for those who want more control over the process.
