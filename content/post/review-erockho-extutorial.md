@@ -16,11 +16,11 @@ You can activate Ex Tutorial on the [TRiBot repository](https://tribot.org/repos
 
 ## How to Use Ex Tutorial Island
 ### With Preregistered Runescape Accounts
-##### 1. Add your account to the TRiBot Account Manager
+#### 1. Add your account to the TRiBot Account Manager
 Using the TRiBot menu, navigate to **View > Account Manager** and add your account.
 ![Runescape TRiBot Account Manager](/img/review/runescape-tribot-account-manager.png)
 
-##### 2. Start Ex Tutorial Island
+#### 2. Start Ex Tutorial Island
 Load a Runescape client, click 'Start Script', select ExTutorial from scripts, and your Runescape account in the dropdown box.
 ![Start Ex Tutorial Island Runescape](/img/review/start-ex-tutorial-island.png)
 
@@ -29,10 +29,10 @@ Load a Runescape client, click 'Start Script', select ExTutorial from scripts, a
 
 In order to use account creation, you'll first need a [2captcha](https://2captcha.com?from=2071477) account. 2captcha is a service that solves captchas for you, like the "I'm not a Robot" box on the Runescape account creation page. You can sign up for 2captcha using my affiliate link [here](https://2captcha.com?from=2071477). Luckily, it's cheap, and costs only ~$1.30 per 1,000 captcha solves.
 
-##### 1. Start Ex Tutorial Island
+#### 1. Start Ex Tutorial Island
 Follow step 2 from above, but this time, don't select an account.
 
-##### 2. Enter your Script Arguments
+#### 2. Enter your Script Arguments
 Adjust the script settings to your liking.
 
 **Example script arguments:**

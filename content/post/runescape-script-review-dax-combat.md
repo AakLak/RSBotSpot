@@ -1,58 +1,61 @@
 ---
-title: "Script Review: Dax Combat v2 Beta for TRiBot"
-draft: true
-date: "2018-05-03"
+title: "Script Review: Dax Combat v2 Beta - TRiBot"
+draft: false
+date: "2018-09-10"
 tags: ["Script Review", "Combat"]
 aliases: ["/runescape-script-review-dax-combat/"]
 sharingicons: false
 ---
-Dax Combat v2 Beta is a popular Oldschool Runescape combat script for TRiBot. It has an optimized combat system, uses the powerful Dax webwalker for routing, and has everything a basic fighter needs.
+Dax Combat v2 Beta is a popular Oldschool Runescape combat script for TRiBot. It has an optimized combat system, utilizes Dax's powerful webwalker, and has everything a basic fighter needs.
 <!--more-->
 
-## Getting Dax Combat v2 Beta
-Dax Combat v2 Beta is currently free until the full version is released. All you need is a TRiBot account with VIP status.
+## **Getting Dax Combat v2 Beta**
+Dax Combat v2 Beta free until the full version is released! You just need is a VIP subscription at TRIBot to use it. Once you have VIP, you can run unlimited instances, for an unlimited amount of time.
 
-| Bot| Price|Thread| Repository|
-|-------------|-------------|
-| TRiBot   | Free (With TRiBot VIP Subscription)   | [Dax Combat v2](https://tribot.org/forums/topic/71381-daxcombat-v2/)       | [Activate](https://tribot.org/repository/script/id/2351-daxcombat-v2-beta/)
+<b>Bot:</b> TRiBot <br>
+<b>Price:</b> Free (with TRiBot VIP Subscription) <br>
+<b>Script Thread:</b> https://tribot.org/forums/topic/71381-daxcombat-v2/ <br>
+<b>Repository Page:</b> https://tribot.org/repository/script/id/2351-daxcombat-v2-beta/ <br>
 
+## **Using Dax Combat v2 Beta**
+#### **1. Start Dax Combat v2**
+On TRiBot click 'Start Script', then select Dax Combat and your account.
+<div class="caption">
+![TRiBot Proxy Button - RSBotSpot](/img/review/dax-combat-beta/start-dax-combat-tribot.png)
+<p class="caption-text">Starting Dax Combat</p>
+</div>
 
-## Using Dax Combat v2 Beta
+After starting the script and accepting all firewall requests, you'll see this GUI appear:
+<div class="caption">
+![TRiBot Proxy Button - RSBotSpot](/img/review/dax-combat-beta/dax-combat-tribot-gui.png)
+<p class="caption-text">Dax Combat GUI</p>
+</div>
 
+#### **2. Set your location**
+Start by moving your account to the area you wish to fight in, and click the 'Set Location' button at the top right. Then, use the slider to set a number of tiles to be the radius of your combat area. The lower your radius, the closer to the 'Set Location' your account will stay.
 
+#### **3. Select your monsters**
+The pane on the left should be populated with a list of monsters in your area. You can press the control key + click to select multiple monsters if needed.
 
-Common reasons to utilize proxies when botting:
+#### **4. Select your loot**
+Use the search bar at the top left to find and select desired loot to pick up. You can also use the GP slider to indicated a 'loot above' value. If the script sees an item on the ground worth more than your 'loot above' value, it will pick it up.
 
-* **Reduce Suspicion:** Botting multiple accounts on the same IP address may look suspicious to Jagex.
-* **Reduce Risk:** If one of your accounts happens to get banned, the others may also be at risk, since they are botting on the same IP address.
-* **Keep your IP clean:** It's good to keep your home IP clean for your main, mule, or accounts you want to play legit on.
+#### **5. Enable banking (Optional)**
+To enable banking,  click the 'Banking' tab, then the 'Enable Banking' checkbox. The script will now automatically bank your loot when full. If you wish to withdraw anything from the bank, like food, use the search bar to enter an amount and type of food, ex: 8 Tuna.
+With the power of Dax's webwalker, the script will automatically find the closest bank, and return back to the monsters.
 
-Using a proxy when botting Runescape helps avoid these gold-farm blunders.
+#### **6. Save your profile (Optional)**
+The script allows you to save and reload your settings to help save time. To do this: click the 'Profiles' tab, enter a name for your profile ex: 'Lumbridge Chickens', and hit save.
 
-## **So, what's a proxy?**
-You can think of a proxy server as a **remote computer with it’s own internet connection**. When you use a proxy, you route your internet activity through the proxy's connection, rather than your own. **Using a proxy will hide your IP address from Runescape**, and show the proxy IP address instead.
+## **Thoughts & Rating**
+<div class="container">
+ <div class="row justify-content-center">
+  <i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><i class="fas fa-star fa-3x"></i><!-- <i class="fas fa-star-half fa-3x"></i> -->
+  </div>
+  <div class="row justify-content-center">
+  <h3>4/5 Stars</h3>
+  </div>
+</div>
+Dax combat is easy to setup and handles combat interactions efficiently. Our tests at various locations with mixed crowd sizes resulted in good xp/hr for the conditions. The script was also able to identify the closest bank and make to a wide variety of monster locations.
 
-## **What should I look for in a proxy?**
-When picking a proxy for Runescape botting, you should make sure you're getting **a private SOCKS proxy**. If that sounds confusing, don't worry, we'll break it down.
-
-*   **HTTP vs SOCKS:** These are the two different protocols proxies use. All you need to know is that Runescape bots use SOCKS proxies, so that's the type you should pick. HTTP proxies will not work with Runescape bots.
-
-*   **Free vs Shared vs Private:** If you see any free proxies, stay away! The uptime & security of these proxies is not suitable for botting. Shared proxies are okay, but you risk getting a proxy used by another botter. Private proxies are best, since you get exclusive access to the connection.
-
-## **How many proxies do I need?**
-The answer to this question is entirely up to you! The *ideal* split would be 1 proxy per 1 account, but this can get costly. Most gold-farmers use **1 proxy per 2-3 accounts** for a good cost/risk ratio.
-
-**Example:** If I had a gold-farm of 10 accounts, I could split them over three proxies. Two proxies would have 3 accounts on each, and the third proxy would have 4 accounts on it.
-
-## **Proper Proxy Usage**
-It's **very important** that you use the same proxy from account creation to account death. This means your account must use the same proxy  **on registration & every time it log in**. Do anything else, and you're not utilizing your proxy properly.
-
-Check out our guide on Registering a Runescape Account through a Proxy (coming soon) to lear how to do this properly. We recommend using <a href="http://www.maxthon.com/" onclick="trackOutboundLink('http://www.maxthon.com/'); return false;" target="_blank" rel="noopener"_>Maxthon Browser</a> to create your accounts through a proxy. Then, utilize a bot to use your with a proxy account in-game.
-
-## **Where do I get Runescape botting proxies?**
-Some of our favorite private Runescape proxy providers are listed below. They have great connectivity, support, and have been tested successfully for botting by us! If you're ready to get proxies and protect your bot-farm from chainbans, look no further!
-
-* <a href="https://billing.virmach.com/aff.php?gid=8&aff=5" onclick="trackOutboundLink('https://virmach.com/manage/cart.php?gid=8&aff=5'); return false;" target="_blank" rel="noopener"_>Virmach</a>
-* <a href="http://www.proxyfish.com/billing/aff.php?aff=1" onclick="trackOutboundLink('http://www.proxyfish.com/billing/aff.php?aff=1'); return false;" target="_blank" rel="noopener"_>Proxy Fish</a>
-* <a href="https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094" onclick="trackOutboundLink('https://www.yourprivateproxy.com/idevaffiliate/idevaffiliate.php?id=1094'); return false;" target="_blank" rel="noopener"_>Your Private Proxy</a>
-* <a href="https://billing.blazingseollc.com/hosting/aff.php?aff=243&to=https://blazingseollc.com/proxy/#Pricing" onclick="trackOutboundLink('https://billing.blazingseollc.com/hosting/aff.php?aff=243&to=https://blazingseollc.com/proxy/#Pricing'); return false;" target="_blank" rel="noopener"_>Blazing Proxy</a>
+Dax combat does lack some nice to have features for a combat script: potion drinking, bone burying, style switching, etc. However, the features it does have shine, and it's very impressive for a free script.

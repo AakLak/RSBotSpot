@@ -59,3 +59,7 @@ th {
 .fa-star, .fa-star-half{
   color: #ffeb3b;
 }
+
+article img{
+  margin: 0 auto;
+}
