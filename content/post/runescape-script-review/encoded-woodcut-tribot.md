@@ -70,7 +70,7 @@ The last 'Settings' tab contains options for:
 * Shift Drop Pattern: Top to bottom or Left to right
 * Stopping at: Desired level or Time played
 
-After that you can hit start, and hit back!
+After that you can hit start, and sit back!
 
 ## Thoughts & Rating
 <div class="container">
