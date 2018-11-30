@@ -1,6 +1,6 @@
 ---
 title: "Script Review: Fluffee Tutorial Island & Account Creator - TRiBot"
-draft: false
+draft: true
 date: "2018-11-01"
 tags: ["Script Review", "Tutorial Island", "Account Creator"]
 aliases: ["/fluffee-tutorial-island-account-creator-tribot/"]
