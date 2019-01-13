@@ -130,6 +130,7 @@ Here's some guides I found helpful when setting up my VPS for Runescape botting.
  - View your VPS by connecting to VNC (Step 5 above)
  - You can close your VNC viewer, and your bots will continue to run
  - If you're having trouble connecting via VNC, use these terminal commands to restart your VNC server:
+
  {{< highlight bash >}}
  $ ssh root@192.888.888.88
  $ vncserver -kill :1
