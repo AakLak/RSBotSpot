@@ -15,7 +15,6 @@ Virtual private servers (or VPSs) are commonly used by Runescape goldfarmers as 
 After hours of researching a well priced and high performance VPS for Runescape botting, [Tier.net](https://billing.tier.net/aff.php?aff=85) caught my attention. They have a good price/performance ratio, allow botting, and even give extra IPs with each VPS plan.
 
 Often times, the technical aspect of setting a VPS can be daunting. This guide is geared towards absolute beginners, and covers how to setup a Tier.net VPS for Runescape Botting.
-<!--more-->
 
 ## Choosing a VPS Plan
 [Tier.net](https://billing.tier.net/aff.php?aff=85&gid=54) offers four different VPS plans:
