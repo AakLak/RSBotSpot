@@ -6,7 +6,7 @@ tags: ["Proxy", "VPS"]
 aliases: ["/tier-net-runescape-botting-vps/"]
 sharingicons: false
 ---
-Virtual private servers (or VPSs) are commonly used by Runescape goldfarmers as a cost effective way to expand their botfarms. You can think of a VPS as a remote computer that you rent. <!--more--> Some benefits that make a VPS appealing to botters are:
+Virtual private servers (or VPSs) are commonly used by Runescape goldfarmers as a cost effective way to expand their botfarms. You can think of a VPS as a remote computer that you rent.<!--more--> Some benefits that make a VPS appealing to botters are:
 
 - They stay online and running your bots, even when your PC is off
 - Cheap and easy way to expand your goldfarm
