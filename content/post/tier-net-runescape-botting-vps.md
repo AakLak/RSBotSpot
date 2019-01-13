@@ -63,45 +63,34 @@ Mac and updated Windows 10 allow for SSH in the terminal. You may need to [enabl
 
 Once you have a terminal open, simply follow the steps below.</br><small>Note: You don't need to type the "$'s"</small>
 ### 1. SSH into your VPS
-{{< highlight bash >}}
-$ ssh root@192.888.888.88
-{{< / highlight >}}
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ ssh root@192.888.888.88</code></pre>
+
 Replace 192.888.888.88 with your VPS's IP address. You can find this in by going to: [Tier.net](https://billing.tier.net/aff.php?aff=85) > Login > Services > Click your VPS > Primary IP
 
 After this command, you'll be asked to enter your root password, which you set on purchase. (You have also gotten an email with a new root password after ordering)
 ### 2. Install XFCE Desktop Environment & VNC
 Update & upgrade your packages.
-{{< highlight bash >}}
-$ apt-get update
-$ apt-get upgrade -y
-{{< / highlight >}}
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ apt-get update
+$ apt-get upgrade -y</code></pre>
 
 If you run into any errors, you may need to comment out any CD ROM sources on your VPS as per [this guide](https://www.velocihost.net/clients/knowledgebase/29/Fix-the-apt-get-install-error-Media-change-please-insert-the-disc-labeled--on-your-Linux-VPS.html).
 
 Install XFCE & TightVNCServer
-{{< highlight bash >}}
-$ apt-get install xfce4 xfce4-goodies tightvncserver
-{{< / highlight >}}
-
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ apt-get install xfce4 xfce4-goodies tightvncserver</code></pre>
 ### 3. Setup a  User to Run VNC
 Create a new user, switch to it, and start the VNCServer.
-{{< highlight bash >}}
-$ adduser vnc
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ adduser vnc
 $ usermod -aG sudo vnc
 $ su - vnc
-$ vncserver
-{{< / highlight >}}
+$ vncserver</code></pre>
 Make sure to note down any passwords you set on this step.
 
 ### 4. Install Java & TRiBot
 Follow [these steps](https://tecadmin.net/install-java-8-on-debian/) to install Java.
 
 Navigate to the desktop, and install TRiBot with:
-{{< highlight bash >}}
-$ cd desktop
-$ wget https://tribot.org/bin/TRiBot_Loader.jar
-{{< / highlight >}}
-
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ cd desktop
+$ wget https://tribot.org/bin/TRiBot_Loader.jar</code></pre>
 ## 5. Connect to your VPS
 Now that you've got everything installed, you're ready to connect to your VPS!
 
