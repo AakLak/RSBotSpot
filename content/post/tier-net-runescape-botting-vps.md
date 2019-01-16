@@ -10,7 +10,7 @@ sharingicons: false
 
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'https://community.rsbotspot.com/',
-                     discourseEmbedUrl: 'https://localhost:1313/post/tier-net-runescape-botting-vps/' };
+                     discourseEmbedUrl: 'https://rsbotspot.com/post/tier-net-runescape-botting-vps/' };
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
