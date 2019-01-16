@@ -6,6 +6,19 @@ tags: ["Proxy", "VPS"]
 aliases: ["/tier-net-runescape-botting-vps/"]
 sharingicons: false
 ---
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://community.rsbotspot.com/',
+                     discourseEmbedUrl: 'http://localhost:1313/post/tier-net-runescape-botting-vps/' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
+
 Virtual private servers (or VPSs) are commonly used by Runescape goldfarmers as a cost effective way to expand their botfarms. You can think of a VPS as a remote computer that you rent.<!--more--> Some benefits that make a VPS appealing to botters are:
 
 - They stay online and running your bots, even when your PC is off
