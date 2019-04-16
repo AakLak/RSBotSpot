@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Looking Glass on Runescape Bot Spot</title>
+    <link>https://rsbotspot.com/tags/looking-glass/</link>
+    <description>Recent content in Looking Glass on Runescape Bot Spot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rsbotspot.com/tags/looking-glass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Use TRiBot Looking Glass &amp; Bot Through the Official Runescape Client</title>
+      <link>https://rsbotspot.com/post/how-to-use-tribot-looking-glass/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsbotspot.com/post/how-to-use-tribot-looking-glass/</guid>
+      <description>&lt;p&gt;TRiBot&amp;rsquo;s &lt;a href=&#34;https://tribot.org/forums/topic/48785-what-is-looking-glass/?tab=comments#comment-577526&#34;&gt;Looking Glass feature&lt;/a&gt; allows you to bot through the official Runescape client by hooking onto and controlling it. Looking glass also supports &lt;a href=&#34;https://rsbotspot.com/post/all-about-proxies-for-runescape-botting/&#34;&gt;proxies for botting&lt;/a&gt; &amp;amp; other clients like OSBuddy.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,10 @@
 body{
   background: #eee;
+  font-size: 1.25rem;
+}
+
+p{
+  line-height: 1.4em;
 }
 .caption {
     max-width: 96%;
@@ -16,10 +21,20 @@ body{
     font-size: 14px;
 }
 
+.blog-post{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.my-card{
+  padding: 1rem;
+}
+
 .my-card, .blog-post{
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
-  padding: 1rem;
   margin: 0 0 1rem;
 }
 
@@ -32,7 +47,7 @@ body{
 }
 
 .blog-container{
-  max-width: 75rem;
+  max-width: 80rem;
 }
 
 td, th {
@@ -54,4 +69,16 @@ th {
 .proxy_table{
   margin:0 auto;
   text-align: center;
+}
+
+.fa-star, .fa-star-half{
+  color: #ffeb3b;
+}
+
+article img{
+  margin: 0 auto;
+}
+
+.sidebar-small{
+  font-size: 12px;
 }
