@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tribot on Runescape Bot Spot</title>
+    <link>https://rsbotspot.com/tags/tribot/</link>
+    <description>Recent content in Tribot on Runescape Bot Spot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rsbotspot.com/tags/tribot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ultimate Guide to Botting with TRiBot</title>
+      <link>https://rsbotspot.com/post/ultimate-tribot-guide/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsbotspot.com/post/ultimate-tribot-guide/</guid>
+      <description>&lt;p&gt;Released in 2013 and used by thousands of users, TRiBot is one of the leading Oldschool Runescape bots. This guide will explain how to start botting with TRiBot.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
