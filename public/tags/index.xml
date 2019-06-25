@@ -6,46 +6,10 @@
     <description>Recent content in Tags on Runescape Bot Spot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rsbotspot.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Antiban</title>
-      <link>https://rsbotspot.com/tags/antiban/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsbotspot.com/tags/antiban/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combat</title>
-      <link>https://rsbotspot.com/tags/combat/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsbotspot.com/tags/combat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Looking Glass</title>
-      <link>https://rsbotspot.com/tags/looking-glass/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsbotspot.com/tags/looking-glass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mirror Mode</title>
-      <link>https://rsbotspot.com/tags/mirror-mode/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rsbotspot.com/tags/mirror-mode/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Proxy</title>
@@ -53,6 +17,15 @@
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rsbotspot.com/tags/proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VPS</title>
+      <link>https://rsbotspot.com/tags/vps/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsbotspot.com/tags/vps/</guid>
       <description></description>
     </item>
     
@@ -66,11 +39,20 @@
     </item>
     
     <item>
-      <title>Tribot</title>
-      <link>https://rsbotspot.com/tags/tribot/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <title>Woodcutting</title>
+      <link>https://rsbotspot.com/tags/woodcutting/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rsbotspot.com/tags/tribot/</guid>
+      <guid>https://rsbotspot.com/tags/woodcutting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combat</title>
+      <link>https://rsbotspot.com/tags/combat/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsbotspot.com/tags/combat/</guid>
       <description></description>
     </item>
     
@@ -84,20 +66,29 @@
     </item>
     
     <item>
-      <title>Vps</title>
-      <link>https://rsbotspot.com/tags/vps/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Antiban</title>
+      <link>https://rsbotspot.com/tags/antiban/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rsbotspot.com/tags/vps/</guid>
+      <guid>https://rsbotspot.com/tags/antiban/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Woodcutting</title>
-      <link>https://rsbotspot.com/tags/woodcutting/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Looking Glass</title>
+      <link>https://rsbotspot.com/tags/looking-glass/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rsbotspot.com/tags/woodcutting/</guid>
+      <guid>https://rsbotspot.com/tags/looking-glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirror  Mode</title>
+      <link>https://rsbotspot.com/tags/mirror-mode/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsbotspot.com/tags/mirror-mode/</guid>
       <description></description>
     </item>
     

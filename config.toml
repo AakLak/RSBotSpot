@@ -42,6 +42,8 @@ paginate = 5
   # verification string for Google Webmaster Tools
   google_verify_meta = "ZsutbJVu2wMXq11-DsKZ-L8U-FF6ri-iLeeBWjmC92o"
 
+  # mainSections = ["post"]
+
   # verification string for Bing Webmaster Tools
   #bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
 

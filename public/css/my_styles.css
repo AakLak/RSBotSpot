@@ -1,3 +1,7 @@
+.blog-post-title{
+  font-size: 4em !important;
+}
+
 body{
   background: #eee;
   font-size: 1.25rem;
