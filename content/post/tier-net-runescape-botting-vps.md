@@ -105,8 +105,8 @@ Run TigerVNC and enter your server IP, port 5901, and your VNC password to conne
 
 After connecting, simply double-click TRiBot_Loader.jar on the desktop to start botting!
 <div class="caption">
-![Tier.net VPS Options](/img/Debian-8-VPS-Runescape-Botting-TRiBot.png)
-<p class="caption-text">TRiBot on Debian 8 VPS</p>
+    <img src="/img/Debian-8-VPS-Runescape-Botting-TRiBot.png" loading="lazy" alt="Tier.net VPS Options">
+<p class="caption-text">Tier.net VPS Options</p>
 </div>
 
 ## Helpful VPS Setup Resources
