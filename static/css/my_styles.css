@@ -1,11 +1,15 @@
 body{
+  font-family: 'Open Sans', sans-serif;
   background: #eee;
-  font-size: 1.25rem;
+  font-size: 1.25em;
+  color: #333;
 }
 
-p{
-  line-height: 1.4em;
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
 }
+
 .caption {
     max-width: 96%;
     margin-bottom: 10px;
@@ -81,8 +85,4 @@ article img{
 
 .sidebar-small{
   font-size: 12px;
-}
-
-.blog-post-title{
-  font-size: 2.5em;
 }
