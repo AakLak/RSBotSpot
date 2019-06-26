@@ -99,13 +99,13 @@ Start by downloading a VNC viewer, I'll be using [TigerVNC](https://tigervnc.org
 
 Run TigerVNC and enter your server IP, port 5901, and your VNC password to connect. Accept any security prompts that may pop up, and enter the password you set in step #3.
 <div class="caption">
-![Tier.net VPS Options](/img/runescape-botting-VPS-VNC.png)
+  <img class="lazy" data-src="/img/runescape-botting-VPS-VNC.png" src="" alt="VNC Login Window">
 <p class="caption-text">VNC Login Window</p>
 </div>
 
 After connecting, simply double-click TRiBot_Loader.jar on the desktop to start botting!
 <div class="caption">
-    <img src="/img/Debian-8-VPS-Runescape-Botting-TRiBot.png" loading="lazy" alt="Tier.net VPS Options">
+    <img class="lazy" data-src="/img/Debian-8-VPS-Runescape-Botting-TRiBot.png" src="" alt="Tier.net VPS Options">
 <p class="caption-text">Tier.net VPS Options</p>
 </div>
 

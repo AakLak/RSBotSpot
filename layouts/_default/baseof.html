@@ -33,6 +33,13 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
 
+<script
+  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+  crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/eisbehr-/jquery.lazy@1.7.10/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/eisbehr-/jquery.lazy@1.7.10/jquery.lazy.plugins.min.js"></script>
+
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -44,7 +51,11 @@
 
   gtag('config', 'UA-59771943-1');
 </script>
-
+<script>
+$(function($) {
+    $("img.lazy").Lazy();
+});
+</script>
   </head>
 
   <body>
