@@ -35,12 +35,17 @@ h1,h2,h3,h4,h5,h6 {
   padding-bottom: 1rem;
 }
 
+.blog-sidebar h4{
+  text-align: center;
+}
+
 .my-card{
   padding: 1rem;
 }
 
 .my-card, .blog-post{
   background-color: #fff;
+  border: 1px solid #202020;
   box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
   margin: 0 0 1rem;
 }
