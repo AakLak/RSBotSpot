@@ -1,6 +1,6 @@
 ---
 title: "How to Start Botting Oldschool Runescape with TRiBot"
-draft: true
+draft: false
 date: "2019-05-21"
 tags: ["TRiBot"]
 aliases: ["/bot-oldschool-runescape-with-tribot/"]
@@ -37,7 +37,19 @@ You can download the official TRiBot client <a href="https://tribot.org/download
 
 Double click the TRiBot.jar file to run it.
 
-If you have any issues, like TRiBot opening with Winrar, <a href="https://johann.loefflmann.net/en/software/jarfix/index.html" target="_blank">run JarFixer</a>(Windows) and try again.
+<div class="row tip-card">
+  <div class="col-md-3 col-sm-12 tip-left">
+    <div class='tip-left-container'>
+    <i class="fal fa-3x fa-lightbulb"></i>
+    <br />
+    Tip
+  </div>
+  </div>
+  <div class="col-md-9 col-sm-12 tip-right">
+    If you experience issues, like TRiBot opening with Winrar, download and <a href="https://johann.loefflmann.net/en/software/jarfix/index.html" target="_blank">run JarFixer</a> (Windows) and try again.
+  </div>
+</div>
+
 
 ## Log in to TRiBot
 Make sure to select JDK 1.8 in the Java Version dropdown box, if it isn't already.
@@ -58,14 +70,17 @@ You can also purchase credits with Runescape gold or cryptocurrency. YoHoGold, o
 
 ## TRiBot Pricing
 TRiBot has various <a href="https://tribot.org/#pricing" target="_blank">subscription levels</a> which can be seen below:
+<div class='table-container'>
 
-Free    | VIP Trial  | VIP | VIP-Extended |
----|---|---|---|
-$0     | $1 per 2 Days   |$6.50 per Month  |$8 per Month  |
-Access to the client | Access to the client   |Access to the client|Access to the client  |
-Able to run one premium script at a time   | Able to run unlimited free, vip, and premium scripts   |Able to run unlimited free, vip, and premium scripts |Able to run unlimited free, vip, and premium scripts|
-   |   ||Ability to use proxies while botting  |
-   |    ||Access to Looking Glass feature  |
+  Free    | VIP Trial  | VIP | VIP-Extended |
+  ---|---|---|---|
+  $0     | $1 per 2 Days   |$6.50 per Month  |$8 per Month  |
+  Access to the client | Access to the client   |Access to the client|Access to the client  |
+  Able to run one premium script at a time   | Able to run unlimited free, vip, and premium scripts   |Able to run unlimited free, vip, and premium scripts |Able to run unlimited free, vip, and premium scripts|
+     |   ||Ability to use proxies while botting  |
+     |    ||Access to Looking Glass feature  |
+
+</div>
 <br>
 They best way to start would be with either VIP Trial or regular VIP.
 
