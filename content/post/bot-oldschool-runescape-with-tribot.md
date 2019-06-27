@@ -14,7 +14,7 @@ Start by registering an account on the <a href="https://tribot.org/forums/regist
 Your forum login details will also be used for the TRiBot client.
 
 ## Install JDK 8
-In order to use TRiBot, you'll first need to install Java Development Kit version 8(JDK8) using method A **or** B below.
+In order to use TRiBot, you'll first need to install Java Development Kit version 8 (JDK8) using method A **or** B below.
 
 ### Method A: Install from Oracle
 You can download the official JDK8 installer <a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank">here</a>.
@@ -50,11 +50,10 @@ Double click the TRiBot.jar file to run it.
   </div>
 </div>
 
-
-## Log in to TRiBot
 Make sure to select JDK 1.8 in the Java Version dropdown box, if it isn't already.
 
 Enter your login details, and click login.
+
 
 ## Congratulations <i class="em em-tada"></i>
 You've installed JDK8 and got TRIBot running!
@@ -92,9 +91,10 @@ With VIP, you can run unlimited instances of all VIP scripts!
 ## How to Select a TRiBot Script
 Start by searching the <a href="https://tribot.org/repository" target="_blank">TRiBot Repository</a> and filtering for the type of script you want. Filter by category and pick 'Free' (meaning free for VIP users) as price. Here's my search for a woodcutting script:
 <div class="caption">
-  <img src="/img/tribot-repository-search.png" alt="Download JDK8 for Runescape"/>
+  <img class="lazy" data-src="/img/tribot-repository-search.png" alt="Download JDK8 for Runescape"/>
   <p class="caption-text">TRiBot Woodcutting Script Search</p>
 </div>
+
 Click the **info button** to see more.
 
 When selecting a script to use, there are a few things you can check to ensure its quality:
