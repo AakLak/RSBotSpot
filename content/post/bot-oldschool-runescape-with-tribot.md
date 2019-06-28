@@ -1,12 +1,15 @@
 ---
 title: "How to Start Botting Oldschool Runescape with TRiBot"
-draft: true
+description: "Learn how to setup and get started botting Oldschool Runescape with TRiBot."
+draft: false
 date: "2019-05-21"
 tags: ["TRiBot"]
 aliases: ["/bot-oldschool-runescape-with-tribot/"]
 sharingicons: false
 ---
-Released in 2013 and used by thousands of botters, TRiBot is one of the leading Oldschool Runescape bots. This guide will explain how to get started botting with TRiBot.
+TRiBot is one of the leading Oldschool Runescape bots and used by thousands of botters. Released in 2013, it's got a history of success and lots of scripts to choose from.
+
+This guide will explain how to get started botting with TRiBot.
 <!--more-->
 ## Create a TRiBot Account
 Start by registering an account on the <a href="https://tribot.org/forums/register/" target="_blank">TRiBot forums</a>.
@@ -50,10 +53,9 @@ Double click the TRiBot.jar file to run it.
   </div>
 </div>
 
-Make sure to select JDK 1.8 in the Java Version dropdown box, if it isn't already.
+If it isn't already, select JDK 1.8 in the 'Java Version' dropdown box.
 
 Enter your login details, and click login.
-
 
 ## Congratulations <i class="em em-tada"></i>
 You've installed JDK8 and got TRIBot running!
@@ -83,13 +85,15 @@ TRiBot has various <a href="https://tribot.org/#pricing" target="_blank">subscri
 <br>
 They best way to start would be with either VIP Trial or regular VIP.
 
-## Buy VIP Subscription
+## How to Buy VIP Subscription
 Once you have credits, you can <a href="https://tribot.org/repository/user_panel/vip" target="_blank">purchase TRiBot VIP</a>.
 
 With VIP, you can run unlimited instances of all VIP scripts!
 
 ## How to Select a TRiBot Script
-Start by searching the <a href="https://tribot.org/repository" target="_blank">TRiBot Repository</a> and filtering for the type of script you want. Filter by category and pick 'Free' (meaning free for VIP users) as price. Here's my search for a woodcutting script:
+Open the <a href="https://tribot.org/repository" target="_blank">TRiBot Repository</a> filter by category, and pick 'Free' (meaning free for VIP users) as price.
+
+Here's my search for a woodcutting script:
 <div class="caption">
   <img class="lazy" data-src="/img/tribot-repository-search.png" alt="Download JDK8 for Runescape"/>
   <p class="caption-text">TRiBot Woodcutting Script Search</p>
@@ -97,11 +101,11 @@ Start by searching the <a href="https://tribot.org/repository" target="_blank">T
 
 Click the **info button** to see more.
 
-When selecting a script to use, there are a few things you can check to ensure its quality:
+When selecting a script to use, there are a few things you can do to ensure its quality:
 
-* **Check last update date:** An old date doesn't necessarily mean the script is broken. But if it hasn't been updated in over a year, it's *typically* outdated.
+* **Check last update date:** An old date doesn't always mean a script is broken. But if it hasn't been updated in over a year, it's *typically* outdated.
 * **Read the 1st thread post:** From the script info page, click **View Thread**. Here you can read details about the script's features and usage.
-* **Read last few thread pages:** Read posts to get a good idea of: how users feel about the script, how active the developer is, and if there are any outstanding issues.
+* **Read last few thread pages:** Read posts to get a good idea of how users feel about the script, how active the developer is, and if there are any outstanding issues.
 
 If all of these points check out, you've found a solid script!
 
@@ -117,11 +121,12 @@ Once Runescape has loaded, click the **Start Script** button at the top right.
 
 Select your script, and click start.
 <div class="caption">
+  <p class="caption-text">**Hover to see it happen!**</p>
   <video id="video" onmouseover="play()" onmouseout="currentTime=0;pause();" style="max-width:100%">
     <source src="/img/load tribot and script.mp4" type="video/mp4" />
     Your browser does not support HTML5 video.
   </video>
-  <p class="caption-text">Loading Runescape & Starting a Script<br>Hover to see it happen!</p>
+  <p class="caption-text">Loading Runescape & Starting a Script</p>
 </div>
 
 Fill out the info in the GUI, and you're good to go.
