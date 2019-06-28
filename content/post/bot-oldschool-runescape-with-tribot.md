@@ -1,7 +1,7 @@
 ---
 title: "How to Start Botting Oldschool Runescape with TRiBot"
 description: "Learn how to setup and get started botting Oldschool Runescape with TRiBot."
-draft: false
+draft: true
 date: "2019-05-21"
 tags: ["TRiBot"]
 aliases: ["/bot-oldschool-runescape-with-tribot/"]
