@@ -1,7 +1,7 @@
 ---
 title: "How to Start Botting Oldschool Runescape with TRiBot"
 description: "Learn how to setup and get started botting Oldschool Runescape with TRiBot."
-draft: true
+draft: false
 date: "2019-05-21"
 tags: ["TRiBot"]
 aliases: ["/bot-oldschool-runescape-with-tribot/"]
@@ -57,7 +57,7 @@ If it isn't already, select JDK 1.8 in the 'Java Version' dropdown box.
 
 Enter your login details, and click login.
 
-## Congratulations <i class="em em-tada"></i>
+## <i class="fas fa-trophy-alt"></i> Congratulations!
 You've installed JDK8 and got TRIBot running!
 
 Now it's time to get familiar with the TRiBot repository.
@@ -131,7 +131,7 @@ Select your script, and click start.
 
 Fill out the info in the GUI, and you're good to go.
 
-## You Did it <i class="em em-tada"></i>
+## <i class="fas fa-trophy-alt"></i> You Did it!
 Congratulations, you got your first bot running!
 
 This is just the beginning. TRiBot has lots of  scripts and other features to make your botting experience smoother.
