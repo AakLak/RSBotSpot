@@ -1,7 +1,7 @@
 ---
 title: "How to Start Botting Oldschool Runescape with TRiBot"
 description: "Learn how to setup and get started botting Oldschool Runescape with TRiBot."
-draft: true
+draft: false
 date: "2019-05-21"
 tags: ["TRiBot"]
 aliases: ["/bot-oldschool-runescape-with-tribot/"]
@@ -141,3 +141,16 @@ This is just the beginning. TRiBot has lots of  scripts and other features to ma
 * <a href="/post/all-about-proxies-for-runescape-botting">All About Proxies for Runescape Botting</a>
 * <a href="/post/how-to-use-proxies-with-tribot/">How to Use Proxies With TRiBot</a>
 * <a href="/post/how-to-use-tribot-looking-glass/">How to Use TRiBot Looking Glass & Bot Through the Official Runescape Client</a>
+
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://community.rsbotspot.com/',
+                     discourseEmbedUrl: 'https://rsbotspot.com' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
