@@ -128,3 +128,11 @@ article img{
 .table-container{
   overflow-x: auto;
 }
+
+a{
+  color: #DD7373;
+}
+
+a:hover{
+  color: #333;
+}
