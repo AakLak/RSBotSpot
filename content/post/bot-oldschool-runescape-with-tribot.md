@@ -1,15 +1,17 @@
 ---
 title: "How to Start Botting Oldschool Runescape with TRiBot"
 description: "Learn how to setup and get started botting Oldschool Runescape with TRiBot."
-draft: true
-date: "2019-05-21"
+draft: false
+date: "2019-06-30"
 tags: ["TRiBot"]
 aliases: ["/bot-oldschool-runescape-with-tribot/"]
 sharingicons: false
 ---
-TRiBot is one of the leading Oldschool Runescape bots and used by thousands of botters. Released in 2013, it's got a history of success and lots of scripts to choose from.
+TRiBot is one of the most popular Oldschool Runescape bots. Released in 2013, it's used by thousands of botters and has a wide selection of scripts.
 
-This guide will explain how to get started botting with TRiBot.
+TRiBot is under active development, and includes features like a break handler, proxy support, and antiban measurements.
+
+This guide will explain how start botting Oldschool Runescape with TRiBot.
 <!--more-->
 ## Create a TRiBot Account
 Start by registering an account on the <a href="https://tribot.org/forums/register/" target="_blank">TRiBot forums</a>.
@@ -17,28 +19,23 @@ Start by registering an account on the <a href="https://tribot.org/forums/regist
 Your forum login details will also be used for the TRiBot client.
 
 ## Install JDK 8
-In order to use TRiBot, you'll first need to install Java Development Kit version 8 (JDK8) using method A **or** B below.
+In order to use TRiBot, you'll first need to install Java Development Kit version 8 (JDK8).
 
-### Method A: Install from Oracle
 You can download the official JDK8 installer <a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank">here</a>.
 
-To download: accept the license agreement, click the download link for your operating system, and create an account.
+To download: click 'Accept License Agreement', click the download link for your operating system, and create an account.
 
 <div class="caption">
   <img src="/img/download-jdk.png" alt="Download JDK8 for Runescape">
   <p class="caption-text">Download JDK8 for Runescape</p>
 </div>
 
-Once you have the installer, run it to install JDK8.
-
-### Method B: Install from Adopt OpenJDK
-<a href="https://adoptopenjdk.net/" target="_blank">Install OpenJDK</a>, an open source version of JDK8.
-
+Once downloaded, run it to install JDK8.
 
 ## Download & Open TRiBot
 You can download the official TRiBot client <a href="https://tribot.org/download.php" target="_blank">here</a>.
 
-Double click the TRiBot.jar file to run it.
+Double click the TRiBot_Loader.jar file to run it.
 
 <div class="row tip-card">
   <div class="col-md-3 col-sm-12 tip-left">
@@ -59,6 +56,9 @@ Enter your login details, and click login.
 
 ## <i class="fas fa-trophy-alt"></i> Congratulations!
 You've installed JDK8 and got TRIBot running!
+
+If you still need help, ask on the <a href="https://tribot.org/forums/forum/126-bot-help/" target="_blank">TRiBot forums</a> or our <a href="https://discord.gg/5kATh3n" target="_blank">Runescape botting discord</a>.
+
 
 Now it's time to get familiar with the TRiBot repository.
 
@@ -83,14 +83,16 @@ TRiBot has various <a href="https://tribot.org/#pricing" target="_blank">subscri
 
 </div>
 <br>
-They best way to start would be with either VIP Trial or regular VIP.
+They best way to start would be with either VIP Trial or regular VIP. This will give you unlimited access to all VIP scripts.
 
-## How to Buy VIP Subscription
+There are also premium scripts which can be purchased individually.
+
+## Buy VIP Subscription
 Once you have credits, you can <a href="https://tribot.org/repository/user_panel/vip" target="_blank">purchase TRiBot VIP</a>.
 
 With VIP, you can run unlimited instances of all VIP scripts!
 
-## How to Select a TRiBot Script
+## Select a TRiBot Script
 Open the <a href="https://tribot.org/repository" target="_blank">TRiBot Repository</a> filter by category, and pick 'Free' (meaning free for VIP users) as price.
 
 Here's my search for a woodcutting script:
@@ -120,8 +122,9 @@ Log into the Runescape account you want to bot.
 Once Runescape has loaded, click the **Start Script** button at the top right.
 
 Select your script, and click start.
+
+Hover to see it happen:
 <div class="caption">
-  <p class="caption-text">**Hover to see it happen!**</p>
   <video id="video" onmouseover="play()" onmouseout="currentTime=0;pause();" style="max-width:100%">
     <source src="/img/load tribot and script.mp4" type="video/mp4" />
     Your browser does not support HTML5 video.
@@ -135,6 +138,11 @@ Fill out the info in the GUI, and you're good to go.
 Congratulations, you got your first bot running!
 
 This is just the beginning. TRiBot has lots of  scripts and other features to make your botting experience smoother.
+
+If you're ready to buy credits for VIP or scripts, you can do so at:
+
+* The <a href="https://tribot.org/repository/user_panel/purchase_credits/" target="_blank">TRiBot repository</a> with Paypal or card
+* <a href="https://tribot.org/repository/user_panel/purchase_credits/" target="_blank">YoHoGold</a> with Runescape gold, cryptocurrency, and various other options
 
 ## Learn More
 

@@ -136,3 +136,18 @@ a{
 a:hover{
   color: #333;
 }
+
+.blog-pagination>.btn{
+  border-radius: 2px;
+}
+
+.btn-outline-primary {
+    color: #DD7373;
+    border-color: #DD7373;
+    border-width: 4px;
+}
+
+.btn-outline-primary.disabled, .btn-outline-primary:disabled {
+    color: #DD7373;
+    background-color: transparent;
+}
