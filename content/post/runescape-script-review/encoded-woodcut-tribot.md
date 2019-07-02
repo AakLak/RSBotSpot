@@ -8,7 +8,7 @@ sharingicons: false
 ---
 
 
-[Encoded's Auto Woodcutter](https://tribot.org/forums/topic/20641-auto-woodcutter/) is one of the most popular free Oldschool Runescape Woodcutting scripts at TRiBot. Created by [Encoded](https://tribot.org/forums/profile/5906-encoded), a TRiBot developer, and scripter since 2013, you know you'll be getting a quality product!
+[Encoded's Auto Woodcutter](https://tribot.org/forums/topic/20641-auto-woodcutter/) is one of the most popular free Old School Runescape Woodcutting scripts at TRiBot. Created by [Encoded](https://tribot.org/forums/profile/5906-encoded), a TRiBot developer, and scripter since 2013, you know you'll be getting a quality product!
 <!--more-->
 
 ## Real Results

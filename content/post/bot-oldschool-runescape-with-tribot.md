@@ -1,17 +1,17 @@
 ---
-title: "How to Start Botting Oldschool Runescape with TRiBot"
-description: "Learn how to setup and get started botting Oldschool Runescape with TRiBot."
+title: "How to Start Botting Old School Runescape with TRiBot"
+description: "Learn how to setup TRiBot and start botting Old School Runescape."
 draft: false
 date: "2019-06-30"
 tags: ["TRiBot"]
-aliases: ["/bot-oldschool-runescape-with-tribot/"]
+aliases: ["/bot-Old School-runescape-with-tribot/"]
 sharingicons: false
 ---
-TRiBot is one of the most popular Oldschool Runescape bots. Released in 2013, it's used by thousands of botters and has a wide selection of scripts.
+TRiBot is one of the most popular Old School Runescape bots. Released in 2013, it's used by thousands of botters and has a wide selection of scripts.
 
 TRiBot is under active development, and includes features like a break handler, proxy support, and antiban measurements.
 
-This guide will explain how start botting Oldschool Runescape with TRiBot.
+This guide will explain how start botting Old School Runescape with TRiBot.
 <!--more-->
 ## Create a TRiBot Account
 Start by registering an account on the <a href="https://tribot.org/forums/register/" target="_blank">TRiBot forums</a>.

@@ -6,7 +6,7 @@ tags: ["Script Review", "Tutorial Island"]
 aliases: ["/runescape-script-review-fluffee-tutorial-island/"]
 sharingicons: false
 ---
-Dax Combat v2 Beta is a popular Oldschool Runescape combat script for TRiBot. It has an optimized combat system, uses the powerful Dax webwalker for routing, and has everything a basic fighter needs.
+Dax Combat v2 Beta is a popular Old School Runescape combat script for TRiBot. It has an optimized combat system, uses the powerful Dax webwalker for routing, and has everything a basic fighter needs.
 <!--more-->
 
 ## Getting Dax Combat v2 Beta
