@@ -55,7 +55,7 @@ If it isn't already, select JDK 1.8 in the 'Java Version' dropdown box.
 Enter your login details, and click login.
 
 ## <i class="fas fa-trophy-alt"></i> Congratulations!
-You've installed JDK8 and got TRIBot running!
+You've installed JDK8 and got TRiBot running!
 
 If you still need help, ask on the <a href="https://tribot.org/forums/forum/126-bot-help/" target="_blank">TRiBot forums</a> or our <a href="https://discord.gg/5kATh3n" target="_blank">Runescape botting discord</a>.
 
