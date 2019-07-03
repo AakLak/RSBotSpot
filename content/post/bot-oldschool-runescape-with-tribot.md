@@ -1,6 +1,6 @@
 ---
-title: "How to Start Botting Old School Runescape with TRiBot"
-description: "Learn how to setup TRiBot and start botting Old School Runescape."
+title: "How to Bot Old School Runescape with TRiBot"
+description: "TRiBot is one of the most popular Old School Runescape bots. Learn how to setup TRiBot and start botting Old School Runescape."
 draft: false
 date: "2019-06-30"
 tags: ["TRiBot"]
