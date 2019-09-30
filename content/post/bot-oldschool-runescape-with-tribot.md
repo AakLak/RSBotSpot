@@ -77,9 +77,9 @@ TRiBot has various <a href="https://tribot.org/#pricing" target="_blank">subscri
   ---|---|---|---|
   $0     | $1 per 2 Days   |$6.50 per Month  |$8 per Month  |
   Access to the client | Access to the client   |Access to the client|Access to the client  |
-  Able to run one premium script at a time   | Able to run unlimited free, vip, and premium scripts   |Able to run unlimited free, vip, and premium scripts |Able to run unlimited free, vip, and premium scripts|
-     |   ||Ability to use proxies while botting  |
-     |    ||Access to Looking Glass feature  |
+  Ability to run one premium script at a time   | Ability to run unlimited free, vip, and premium scripts   |Ability to run unlimited free, vip, and premium scripts |Ability to run unlimited free, vip, and premium scripts|
+| | | | Ability to use proxies while botting  |
+| | | | Access to Looking Glass feature  |
 
 </div>
 <br>

@@ -40,14 +40,14 @@ Next you'll to set a couple options on the **Product Configuration** page:
 
 - **Hostname** - Can be anything alphanumeric, you don't need to remember this.
 - **Root Password** - Set a strong password, and note it down.
-- **Operating System** - I recommend Debian 7.X 64-bit.</br><small>We recommend upgrading to Debian 8 in the control panel after ordering. Contact Tier.net support if you need a hand with this.</small>
+- **Operating System** - Default/CentOS 7.x 64-Bit</br><small>Later, we'll explain how to one-click install Debian 9</small>
 
 All other options can be left as default.
 
 Then complete payment and you're done.
 [Tier.net](https://billing.tier.net/aff.php?aff=85) accepts: Paypal, Credit/Debit Card, and Bitcoin.
 
-Before delivering, [Tier.net](https://billing.tier.net/aff.php?aff=85) seems to prescreen customers regarding usage. I received a ticket asking some questions, and gave them an honest answer to the effect of:<div height="1em"></div>
+Before delivering, [Tier.net](https://billing.tier.net/aff.php?aff=85) sometimes prescreens customers regarding usage. I received a ticket asking some questions, and gave them an honest answer to the effect of:<div height="1em"></div>
 <div class="caption" style="text-align:left;">
 "I am using this server to run automation scripts for a video game. The scripts will run for under 8 hours a day, and never over 2 hours at once. I will take care to respect and not max out the CPU/RAM resources of the server."
 </div>
@@ -57,6 +57,13 @@ Now we need to connect to and setup the VPS for Runescape botting.
 
 ## Connecting to & Setting Up Your VPS
 Once you have access to your VPS, you'll need to set it up for Runescape botting. This includes installing a desktop environment and VNC software to view to your VPS.
+
+### Upgrading to Debian 9
+Debian 9 is a modern Linux operating system. It's not listed on the order page, but can be installed afterwords.
+
+Start by navigating to your Tier.net [services](https://billing.tier.net/clientarea.php?action=services&aff=85) section, and clicking on your server.
+
+Then click Control Panel > click your server > click Reinstall > Select Debian 9 64bit > click Reinstall.
 
 The next steps will be done using SSH in the terminal. SSH allows you to run commands on the VPS.
 

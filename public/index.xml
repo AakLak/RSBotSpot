@@ -6,10 +6,23 @@
     <description>Recent content on Runescape Bot Spot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rsbotspot.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Bot Old School Runescape with TRiBot</title>
+      <link>https://rsbotspot.com/post/bot-oldschool-runescape-with-tribot/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsbotspot.com/post/bot-oldschool-runescape-with-tribot/</guid>
+      <description>&lt;p&gt;TRiBot is one of the most popular Old School Runescape bots. Released in 2013, it&amp;rsquo;s used by thousands of botters and has a wide selection of scripts.&lt;/p&gt;
+
+&lt;p&gt;TRiBot is under active development, and includes features like a break handler, proxy support, and antiban measurements.&lt;/p&gt;
+
+&lt;p&gt;This guide will explain how start botting Old School Runescape with TRiBot.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>How to Setup a Tier.net VPS for Runescape Botting</title>
@@ -99,31 +112,12 @@
     </item>
     
     <item>
-      <title>Free SOCKS Proxies for Runescape Botting</title>
-      <link>https://rsbotspot.com/contact/</link>
-      <pubDate>Wed, 14 Sep 2016 16:33:27 +0300</pubDate>
-      
-      <guid>https://rsbotspot.com/contact/</guid>
-      <description>a</description>
-    </item>
-    
-    <item>
-      <title>Free SOCKS Proxies for Runescape Botting</title>
-      <link>https://rsbotspot.com/free-runescape-proxy-list/</link>
-      <pubDate>Wed, 14 Sep 2016 16:33:27 +0300</pubDate>
-      
-      <guid>https://rsbotspot.com/free-runescape-proxy-list/</guid>
-      <description>Check out these guides to learn more about proxies for Runescape botting and how they can help you avoid chain bans.
- All About Proxies for Runescape Botting How to Create &amp;amp; Register Runescape Bot Accounts through a Proxy How To Use Proxies With TRiBot  For any sort of serious Runescape botting, you should use premium, private SOCKS proxies. Check out the recommended providers at the bottom of the page!</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://rsbotspot.com/googlef54d0bd246ae52bb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rsbotspot.com/googlef54d0bd246ae52bb/</guid>
-      <description>google-site-verification: googlef54d0bd246ae52bb.html</description>
+      <description>google-site-verification: googlef54d0bd246ae52bb.</description>
     </item>
     
   </channel>

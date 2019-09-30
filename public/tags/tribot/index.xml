@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tribot on Runescape Bot Spot</title>
+    <title>TRiBot on Runescape Bot Spot</title>
     <link>https://rsbotspot.com/tags/tribot/</link>
-    <description>Recent content in Tribot on Runescape Bot Spot</description>
+    <description>Recent content in TRiBot on Runescape Bot Spot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rsbotspot.com/tags/tribot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Ultimate Guide to Botting with TRiBot</title>
-      <link>https://rsbotspot.com/post/ultimate-tribot-guide/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <title>How to Bot Old School Runescape with TRiBot</title>
+      <link>https://rsbotspot.com/post/bot-oldschool-runescape-with-tribot/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rsbotspot.com/post/ultimate-tribot-guide/</guid>
-      <description>&lt;p&gt;Released in 2013 and used by thousands of users, TRiBot is one of the leading Old School Runescape bots. This guide will explain how to start botting with TRiBot.&lt;/p&gt;</description>
+      <guid>https://rsbotspot.com/post/bot-oldschool-runescape-with-tribot/</guid>
+      <description>&lt;p&gt;TRiBot is one of the most popular Old School Runescape bots. Released in 2013, it&amp;rsquo;s used by thousands of botters and has a wide selection of scripts.&lt;/p&gt;
+
+&lt;p&gt;TRiBot is under active development, and includes features like a break handler, proxy support, and antiban measurements.&lt;/p&gt;
+
+&lt;p&gt;This guide will explain how start botting Old School Runescape with TRiBot.&lt;/p&gt;</description>
     </item>
     
   </channel>
