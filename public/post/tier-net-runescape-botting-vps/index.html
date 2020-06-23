@@ -25,7 +25,7 @@
   "@type": "BlogPosting",
   "headline": "How to Setup a Tier.net VPS for Runescape Botting",
   "url": "https:\/\/rsbotspot.com\/post\/tier-net-runescape-botting-vps\/",
-  "wordCount": "1039",
+  "wordCount": "1079",
   "datePublished": "2019-01-13T00:00:00+00:00",
   "dateModified": "2019-01-13T00:00:00+00:00",
   "author": {
@@ -175,7 +175,7 @@ $(function($) {
 <ul>
 <li><strong>Hostname</strong> - Can be anything alphanumeric, you don&rsquo;t need to remember this.</li>
 <li><strong>Root Password</strong> - Set a strong password, and note it down.</li>
-<li><strong>Operating System</strong> - I recommend Debian 7.X 64-bit.</br><small>We recommend upgrading to Debian 8 in the control panel after ordering. Contact Tier.net support if you need a hand with this.</small></li>
+<li><strong>Operating System</strong> - Default/CentOS 7.x 64-Bit</br><small>Later, we&rsquo;ll explain how to one-click install Debian 9</small></li>
 </ul>
 
 <p>All other options can be left as default.</p>
@@ -183,7 +183,7 @@ $(function($) {
 <p>Then complete payment and you&rsquo;re done.
 <a href="https://billing.tier.net/aff.php?aff=85">Tier.net</a> accepts: Paypal, Credit/Debit Card, and Bitcoin.</p>
 
-<p>Before delivering, <a href="https://billing.tier.net/aff.php?aff=85">Tier.net</a> seems to prescreen customers regarding usage. I received a ticket asking some questions, and gave them an honest answer to the effect of:<div height="1em"></div>
+<p>Before delivering, <a href="https://billing.tier.net/aff.php?aff=85">Tier.net</a> sometimes prescreens customers regarding usage. I received a ticket asking some questions, and gave them an honest answer to the effect of:<div height="1em"></div>
 <div class="caption" style="text-align:left;">
 &ldquo;I am using this server to run automation scripts for a video game. The scripts will run for under 8 hours a day, and never over 2 hours at once. I will take care to respect and not max out the CPU/RAM resources of the server.&rdquo;
 </div>
@@ -194,6 +194,14 @@ They gladly accepted my answer and delivered the VPS! It took about 6 hours from
 <h2 id="connecting-to-setting-up-your-vps">Connecting to &amp; Setting Up Your VPS</h2>
 
 <p>Once you have access to your VPS, you&rsquo;ll need to set it up for Runescape botting. This includes installing a desktop environment and VNC software to view to your VPS.</p>
+
+<h3 id="upgrading-to-debian-9">Upgrading to Debian 9</h3>
+
+<p>Debian 9 is a modern Linux operating system. It&rsquo;s not listed on the order page, but can be installed afterwords.</p>
+
+<p>Start by navigating to your Tier.net <a href="https://billing.tier.net/clientarea.php?action=services&amp;aff=85">services</a> section, and clicking on your server.</p>
+
+<p>Then click Control Panel &gt; click your server &gt; click Reinstall &gt; Select Debian 9 64bit &gt; click Reinstall.</p>
 
 <p>The next steps will be done using SSH in the terminal. SSH allows you to run commands on the VPS.</p>
 
@@ -354,6 +362,8 @@ $ vncserver</code></pre></li>
     <a href="https://discord.gg/5kATh3n" style ="color:#333;text-align: center;
     display: inline-block;"target="_blank">Join our Discord chatroom</br><i class="fab  fa-2x fa-discord"></i></a>
   </section>
+
+  
 
   <section class="sidebar-module sidebar-module-inset my-card">
     <h4>About</h4>

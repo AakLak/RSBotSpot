@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://rsbotspot.com/"
+baseurl = "https://botspot.rs/"
 languageCode = "en-us"
 title = "Runescape Bot Spot"
 theme = "hugo-theme-bootstrap4-blog"
