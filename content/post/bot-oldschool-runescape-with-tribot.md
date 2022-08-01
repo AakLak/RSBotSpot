@@ -11,7 +11,7 @@ TRiBot is one of the most popular Old School Runescape bots. Released in 2013, i
 
 TRiBot is under active development, and includes features like a break handler, proxy support, and antiban measurements.
 
-This guide will explain how start botting Old School Runescape with TRiBot.
+This guide will explain how to start botting Old School Runescape with TRiBot.
 <!--more-->
 ## Create a TRiBot Account
 Start by registering an account on the <a href="https://tribot.org/forums/register/" target="_blank">TRiBot forums</a>.
