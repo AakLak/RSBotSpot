@@ -37,7 +37,7 @@ The answer to this question is entirely up to you! The *ideal* split would be 1 
 **Example:** If I had a gold-farm of 10 accounts, I could split them over three proxies. Two proxies would have 3 accounts on each, and the third proxy would have 4 accounts on it.
 
 ## **Proper Proxy Usage**
-It's **very important** that you use the same proxy from account creation to account death. This means your account must use the same proxy  **on registration & every time it log in**. Do anything else, and you're not utilizing your proxy properly.
+It's **very important** that you use the same proxy from account creation to account death. This means your account must use the same proxy  **on registration & every time it logs in**. Do anything else, and you're not utilizing your proxy properly.
 
 Check out our guide on Registering a RuneScape Account through a Proxy (coming soon) to learn how to do this properly. We recommend using <a href="http://www.maxthon.com/" onclick="trackOutboundLink('http://www.maxthon.com/'); return false;" target="_blank" rel="noopener"_>Maxthon Browser</a> to create your accounts through a proxy. Then, utilize a bot to use your with a proxy account in-game.
 
